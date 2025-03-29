@@ -1,0 +1,885 @@
+>BOTH:
+-mAllArmyIcon:
+==INSERT INFO HERE==
+
+-mRadarDot:
+==INSERT INFO HERE==
+
+-mObjectiveRadarBlip:
+==INSERT INFO HERE==
+
+-mHumanHudMainShape:
+==INSERT INFO HERE==
+
+-mCompassNorth:
+==INSERT INFO HERE==
+
+-mHudMapTarget:
+==INSERT INFO HERE==
+
+-mHudMapBubble:
+==INSERT INFO HERE==
+
+-mFriendlyRadarBlip:
+==INSERT INFO HERE==
+
+-mEnemyRadarBlip:
+==INSERT INFO HERE==
+
+-mAirUnitRadarBlip:
+==INSERT INFO HERE==
+
+-mRadioTransmitAnim:
+==INSERT INFO HERE==
+
+-mReticuleHealthBar:
+==INSERT INFO HERE==
+
+-mHealthBar:
+==INSERT INFO HERE==
+
+-mHealthBgnd:
+==INSERT INFO HERE==
+
+-mUnitIDTextBox:
+==INSERT INFO HERE==
+
+-mEnemyHealthBar:
+==INSERT INFO HERE==
+
+-mEnemyHealthBgnd:
+==INSERT INFO HERE==
+
+-mEnemyUnitIDTextBox:
+==INSERT INFO HERE==
+
+-mVehicleOccupantIconBox1:
+==INSERT INFO HERE==
+
+-mUnitIconBoxExpanded:
+==INSERT INFO HERE==
+
+-mUnitIconBoxExpandedTop:
+==INSERT INFO HERE==
+
+-mRadio:
+==INSERT INFO HERE==
+
+-mAdvWeaponPower:
+==INSERT INFO HERE==
+
+-mAdvWeaponPowerBgnd:
+==INSERT INFO HERE==
+
+-mGroundDecal:
+==INSERT INFO HERE==
+
+-mCoverDecal:
+==INSERT INFO HERE==
+
+-mRadarBackground:
+==INSERT INFO HERE==
+
+-mDeathCross:
+==INSERT INFO HERE==
+
+-mOverheadCommander:
+==INSERT INFO HERE==
+
+-mOverheadFollowing:
+==INSERT INFO HERE==
+
+-mOverheadEmpty:
+==INSERT INFO HERE==
+
+-mOverheadMoveToPosition:
+==INSERT INFO HERE==
+
+-mOverheadMoveToHealthPickup:
+==INSERT INFO HERE==
+
+-mOverheadMoveToEnterVehicle:
+==INSERT INFO HERE==
+
+-mOverheadSeenEnemy:
+==INSERT INFO HERE==
+
+-mOverheadSentRadioMessage:
+==INSERT INFO HERE==
+
+-mOverheadAttack:
+==INSERT INFO HERE==
+
+-mOverheadDead:
+==INSERT INFO HERE==
+
+-mOverheadGuardArea:
+==INSERT INFO HERE==
+
+-mOverheadMoveToRepairPickup:
+==INSERT INFO HERE==
+
+-mOverheadNonActive:
+==INSERT INFO HERE==
+
+-mOverheadInMGN:
+==INSERT INFO HERE==
+
+-mOverheadInCP:
+==INSERT INFO HERE==
+
+-mOverheadCommanderSel:
+==INSERT INFO HERE==
+
+-mOverheadFollowingSel:
+==INSERT INFO HERE==
+
+-mOverheadEmptySel:
+==INSERT INFO HERE==
+
+-mOverheadMoveToPositionSel:
+==INSERT INFO HERE==
+
+-mOverheadMoveToHealthPickupSel:
+==INSERT INFO HERE==
+
+-mOverheadMoveToEnterVehicleSel:
+==INSERT INFO HERE==
+
+-mOverheadSeenEnemySel:
+==INSERT INFO HERE==
+
+-mOverheadSentRadioMessageSel:
+==INSERT INFO HERE==
+
+-mOverheadAttackSel:
+==INSERT INFO HERE==
+
+-mOverheadDeadSel:
+==INSERT INFO HERE==
+
+-mOverheadGuardAreaSel:
+==INSERT INFO HERE==
+
+-mOverheadMoveToRepairPickupSel:
+==INSERT INFO HERE==
+
+-mOverheadNonActiveSel:
+==INSERT INFO HERE==
+
+-mOverheadInMGNSel:
+==INSERT INFO HERE==
+
+-mOverheadInCPSel:
+==INSERT INFO HERE==
+
+-mAButton:
+==INSERT INFO HERE==
+
+-mBButton:
+==INSERT INFO HERE==
+
+-mXButton:
+==INSERT INFO HERE==
+
+-mYButton:
+==INSERT INFO HERE==
+
+-mCStick:
+==INSERT INFO HERE==
+
+-mAnalogStick:
+==INSERT INFO HERE==
+
+-mZButton:
+==INSERT INFO HERE==
+
+-mDPad:
+==INSERT INFO HERE==
+
+-mLTrigger:
+==INSERT INFO HERE==
+
+-mRTrigger:
+==INSERT INFO HERE==
+
+-mStartButton:
+==INSERT INFO HERE==
+
+-mDPadLR:
+==INSERT INFO HERE==
+
+-mDPadDown:
+==INSERT INFO HERE==
+
+-mPauseScreenController:
+==INSERT INFO HERE==
+
+-mPauseScreenLTrigger:
+==INSERT INFO HERE==
+
+-mPauseScreenRTrigger:
+==INSERT INFO HERE==
+
+-mPauseScreenZButton:
+==INSERT INFO HERE==
+
+-mPauseScreenLStick:
+==INSERT INFO HERE==
+
+-mPauseScreenDPad:
+==INSERT INFO HERE==
+
+-mPauseScreenCStick:
+==INSERT INFO HERE==
+
+-mPauseScreenXButton:
+==INSERT INFO HERE==
+
+-mPauseScreenYButton:
+==INSERT INFO HERE==
+
+-mPauseScreenAButton:
+==INSERT INFO HERE==
+
+-mPauseScreenBButton:
+==INSERT INFO HERE==
+
+-mResultsScreenBgnd:
+==INSERT INFO HERE==
+
+-mResultsScreenRankA:
+==INSERT INFO HERE==
+
+-mResultsScreenRankB:
+==INSERT INFO HERE==
+
+-mResultsScreenRankC:
+==INSERT INFO HERE==
+
+-mResultsScreenRankS:
+==INSERT INFO HERE==
+
+-mObjectivesStarPrimary:
+==INSERT INFO HERE==
+
+-mObjectivesStarSecondary:
+==INSERT INFO HERE==
+
+-mObjectivesStarComplete:
+==INSERT INFO HERE==
+
+-mObjectivesBckLeft:
+==INSERT INFO HERE==
+
+-mObjectivesBckRight:
+==INSERT INFO HERE==
+
+-mObjectivesBckMiddle:
+==INSERT INFO HERE==
+
+-mSummaryUpArrow:
+==INSERT INFO HERE==
+
+-mSummaryDownArrow:
+==INSERT INFO HERE==
+
+-mSummaryBGLeft:
+==INSERT INFO HERE==
+
+-mSummaryBGRight:
+==INSERT INFO HERE==
+
+-mSummaryBGMiddle:
+==INSERT INFO HERE==
+
+-mSummaryBGHighlightLeft:
+==INSERT INFO HERE==
+
+-mSummaryBGHighlightRight:
+==INSERT INFO HERE==
+
+-mControllerBGDpadLeft:
+==INSERT INFO HERE==
+
+-mControllerBGDpadRight:
+==INSERT INFO HERE==
+
+-mControllerBGDpadMiddle:
+==INSERT INFO HERE==
+
+-mMapControlsSprite:
+==INSERT INFO HERE==
+
+-mMapFacingDirection:
+==INSERT INFO HERE==
+
+-mMapControlsToggleInvert:
+==INSERT INFO HERE==
+
+-mMapSummaryBackground:
+==INSERT INFO HERE==
+
+-mCOBoxLeftSide:
+==INSERT INFO HERE==
+
+-mCOBoxLeftSideHigh:
+==INSERT INFO HERE==
+
+-mCOBoxRightSide:
+==INSERT INFO HERE==
+
+-mCOBoxRightSideHigh:
+==INSERT INFO HERE==
+
+-mCOBoxMiddle:
+==INSERT INFO HERE==
+
+-mCOBoxMiddleHigh:
+==INSERT INFO HERE==
+
+-mCOLightening:
+==INSERT INFO HERE==
+
+-mMapBorderTL:
+==INSERT INFO HERE==
+
+-mMapBorderTR:
+==INSERT INFO HERE==
+
+-mMapBorderBL:
+==INSERT INFO HERE==
+
+-mMapBorderBR:
+==INSERT INFO HERE==
+
+-mMapBorderTop:
+==INSERT INFO HERE==
+
+-mMapBorderBottom:
+==INSERT INFO HERE==
+
+-mMapBorderLeft:
+==INSERT INFO HERE==
+
+-mMapBorderRight:
+==INSERT INFO HERE==
+
+-mMapBackground:
+==INSERT INFO HERE==
+
+-mMapTab:
+==INSERT INFO HERE==
+
+-mTimer0:
+==INSERT INFO HERE==
+
+-mTimer1:
+==INSERT INFO HERE==
+
+-mTimer2:
+==INSERT INFO HERE==
+
+-mTimer3:
+==INSERT INFO HERE==
+
+-mTimer4:
+==INSERT INFO HERE==
+
+-mTimer5:
+==INSERT INFO HERE==
+
+-mTimer6:
+==INSERT INFO HERE==
+
+-mTimer7:
+==INSERT INFO HERE==
+
+-mTimer8:
+==INSERT INFO HERE==
+
+-mTimer9:
+==INSERT INFO HERE==
+
+-mTimerColon:
+==INSERT INFO HERE==
+
+-mControllerSprite:
+==INSERT INFO HERE==
+
+>BW1:
+-mCentreReticuleFor3rdPOV:
+==INSERT INFO HERE==
+
+-mHumanHudCompassRing:
+==INSERT INFO HERE==
+
+-mRangeReticule:
+==INSERT INFO HERE==
+
+-mUnitIconBox:
+==INSERT INFO HERE==
+
+-mPlayerUnitIconBox:
+==INSERT INFO HERE==
+
+-mSelectedUnitIconBox:
+==INSERT INFO HERE==
+
+-mRegularReticule:
+==INSERT INFO HERE==
+
+-mLockReticule:
+==INSERT INFO HERE==
+
+-m2ndaryReticule:
+==INSERT INFO HERE==
+
+-mLookReticule:
+==INSERT INFO HERE==
+
+-mCoverReticule:
+==INSERT INFO HERE==
+
+-mTimerBackground:
+==INSERT INFO HERE==
+
+>BW2:
+-mCoopMarkerMapIcon:
+==INSERT INFO HERE==
+
+-mWarningBackground:
+==INSERT INFO HERE==
+
+-mMissileWarning:
+==INSERT INFO HERE==
+
+-mTorpedoWarning:
+==INSERT INFO HERE==
+
+-mEnemyTagIdentifier:
+==INSERT INFO HERE==
+
+-mEnemyStatusBarIdentifier:
+==INSERT INFO HERE==
+
+-mUnitIconBox_WF:
+==INSERT INFO HERE==
+
+-mUnitIconBox_XY:
+==INSERT INFO HERE==
+
+-mUnitIconBox_TT:
+==INSERT INFO HERE==
+
+-mUnitIconBox_SE:
+==INSERT INFO HERE==
+
+-mUnitIconBox_UW:
+==INSERT INFO HERE==
+
+-mUnitIconBox_AI:
+==INSERT INFO HERE==
+
+-mBuildingIconBox:
+==INSERT INFO HERE==
+
+-mPlayerUnitIconBox_WF:
+==INSERT INFO HERE==
+
+-mPlayerUnitIconBox_XY:
+==INSERT INFO HERE==
+
+-mPlayerUnitIconBox_TT:
+==INSERT INFO HERE==
+
+-mPlayerUnitIconBox_SE:
+==INSERT INFO HERE==
+
+-mPlayerUnitIconBox_UW:
+==INSERT INFO HERE==
+
+-mPlayerUnitIconBox_AI:
+==INSERT INFO HERE==
+
+-mSelectedUnitIconBox_WF:
+==INSERT INFO HERE==
+
+-mSelectedUnitIconBox_XY:
+==INSERT INFO HERE==
+
+-mSelectedUnitIconBox_TT:
+==INSERT INFO HERE==
+
+-mSelectedUnitIconBox_SE:
+==INSERT INFO HERE==
+
+-mSelectedUnitIconBox_UW:
+==INSERT INFO HERE==
+
+-mSelectedUnitIconBox_AI:
+==INSERT INFO HERE==
+
+-mBuildingIconGlow:
+==INSERT INFO HERE==
+
+-mStackSelectedHighlight:
+==INSERT INFO HERE==
+
+-mFacilityIDTab:
+==INSERT INFO HERE==
+
+-mHumanHudCompassRing_WF:
+==INSERT INFO HERE==
+
+-mHumanHudCompassRing_XY:
+==INSERT INFO HERE==
+
+-mHumanHudCompassRing_TT:
+==INSERT INFO HERE==
+
+-mHumanHudCompassRing_SE:
+==INSERT INFO HERE==
+
+-mHumanHudCompassRing_UW:
+==INSERT INFO HERE==
+
+-mHumanHudCompassRing_AI:
+==INSERT INFO HERE==
+
+-mHUDRadarAlpha:
+==INSERT INFO HERE==
+
+-mSonarRadarBlip:
+==INSERT INFO HERE==
+
+-mRadarViewCone:
+==INSERT INFO HERE==
+
+-mUnitIconFactory:
+==INSERT INFO HERE==
+
+-mUnitIconBarracks:
+==INSERT INFO HERE==
+
+-mUnitIconAirbase:
+==INSERT INFO HERE==
+
+-mUnitIconDocks:
+==INSERT INFO HERE==
+
+-mUnitIconCapturePoint:
+==INSERT INFO HERE==
+
+-mRadarGroundVehicle:
+==INSERT INFO HERE==
+
+-mRadarPlane:
+==INSERT INFO HERE==
+
+-mRadarChopper:
+==INSERT INFO HERE==
+
+-mRadarInfantry:
+==INSERT INFO HERE==
+
+-mRadarBoat:
+==INSERT INFO HERE==
+
+-mRadarSub:
+==INSERT INFO HERE==
+
+-mRadarFactory:
+==INSERT INFO HERE==
+
+-mRadarBarracks:
+==INSERT INFO HERE==
+
+-mRadarAirBase:
+==INSERT INFO HERE==
+
+-mRadarPort:
+==INSERT INFO HERE==
+
+-mRadarHeadquarters:
+==INSERT INFO HERE==
+
+-mRadarMobileSpawnPoint:
+==INSERT INFO HERE==
+
+-mRadarGunNest:
+==INSERT INFO HERE==
+
+-mRadarAntennae:
+==INSERT INFO HERE==
+
+-mRadarSkyline:
+==INSERT INFO HERE==
+
+-mRadarExplosion:
+==INSERT INFO HERE==
+
+-mOverheadCommander1:
+==INSERT INFO HERE==
+
+-mOverheadCommander2:
+==INSERT INFO HERE==
+
+-mOverheadDefend:
+==INSERT INFO HERE==
+
+-mOverheadGoingToMGN:
+==INSERT INFO HERE==
+
+-mOverheadGoingToCP:
+==INSERT INFO HERE==
+
+-mOverheadCommanderSel1:
+==INSERT INFO HERE==
+
+-mOverheadCommanderSel2:
+==INSERT INFO HERE==
+
+-mOverheadDefendSel:
+==INSERT INFO HERE==
+
+-mOverheadGoingToMGNSel:
+==INSERT INFO HERE==
+
+-mOverheadGoingToCPSel:
+==INSERT INFO HERE==
+
+-m1Button:
+==INSERT INFO HERE==
+
+-mPauseScreenPlusButton:
+==INSERT INFO HERE==
+
+-mPauseScreenBigButton:
+==INSERT INFO HERE==
+
+-mPauseScreenBigButtonHighlight:
+==INSERT INFO HERE==
+
+-mPauseScreenControllerOverlay:
+==INSERT INFO HERE==
+
+-mPauseScreenObjectivesOverlay:
+==INSERT INFO HERE==
+
+-mPauseScreenCOLogOverlay:
+==INSERT INFO HERE==
+
+-mPauseScreenSeparator:
+==INSERT INFO HERE==
+
+-mObjectivesBckLeftHighlighted:
+==INSERT INFO HERE==
+
+-mObjectivesBckRightHighlighted:
+==INSERT INFO HERE==
+
+-mObjectivesBckMiddleHighlighted:
+==INSERT INFO HERE==
+
+-mObjectivesTitleBarLeft:
+==INSERT INFO HERE==
+
+-mObjectivesTitleBarRight:
+==INSERT INFO HERE==
+
+-mObjectivesTitleBarMiddle:
+==INSERT INFO HERE==
+
+-mSummaryUpArrowHighlighted:
+==INSERT INFO HERE==
+
+-mSummaryDownArrowHighlighted:
+==INSERT INFO HERE==
+
+-mPauseIconButtonBckLeft:
+==INSERT INFO HERE==
+
+-mPauseIconButtonBckMiddle:
+==INSERT INFO HERE==
+
+-mPauseIconButtonBckRight:
+==INSERT INFO HERE==
+
+-mPauseIconButtonBckHighlightLeft:
+==INSERT INFO HERE==
+
+-mPauseIconButtonBckHighlightMiddle:
+==INSERT INFO HERE==
+
+-mPauseIconButtonBckHighlightRight:
+==INSERT INFO HERE==
+
+-mPauseIconButtonQuitWhiteFlag:
+==INSERT INFO HERE==
+
+-mPauseMenuToggleFrameLeft:
+==INSERT INFO HERE==
+
+-mPauseMenuToggleFrameMiddle:
+==INSERT INFO HERE==
+
+-mPauseMenuToggleFrameRight:
+==INSERT INFO HERE==
+
+-mPauseMenuToggleOptionUnselected:
+==INSERT INFO HERE==
+
+-mPauseMenuToggleOptionChecked:
+==INSERT INFO HERE==
+
+-mPauseMenuToggleOptionHighlighted:
+==INSERT INFO HERE==
+
+-mPauseControlsFreelookOverlayNarrow:
+==INSERT INFO HERE==
+
+-mPauseControlsFreelookOverlayWide:
+==INSERT INFO HERE==
+
+-mCOBoxObjectiveLeft:
+==INSERT INFO HERE==
+
+-mCOBoxObjectiveMiddle:
+==INSERT INFO HERE==
+
+-mCOBoxObjectiveRight:
+==INSERT INFO HERE==
+
+-mCOBoxObjectiveLeftHighlight:
+==INSERT INFO HERE==
+
+-mCOBoxObjectiveMiddleHighlight:
+==INSERT INFO HERE==
+
+-mCOBoxObjectiveRightHighlight:
+==INSERT INFO HERE==
+
+-mSkirmishNameBackgroundLeft:
+==INSERT INFO HERE==
+
+-mSkirmishNameBackgroundMiddle:
+==INSERT INFO HERE==
+
+-mSkirmishNameBackgroundRight:
+==INSERT INFO HERE==
+
+-mSkirmishScoreBackgroundLeft:
+==INSERT INFO HERE==
+
+-mSkirmishScoreBackgroundMiddle:
+==INSERT INFO HERE==
+
+-mSkirmishScoreBackgroundRight:
+==INSERT INFO HERE==
+
+-mTimerBackground_WF:
+==INSERT INFO HERE==
+
+-mTimerBackground_XY:
+==INSERT INFO HERE==
+
+-mTimerBackground_TT:
+==INSERT INFO HERE==
+
+-mTimerBackground_SE:
+==INSERT INFO HERE==
+
+-mTimerBackground_UW:
+==INSERT INFO HERE==
+
+-mTimerBackground_AI:
+==INSERT INFO HERE==
+
+-mArmyIconWesternFRontier:
+==INSERT INFO HERE==
+
+-mArmyIconXylvanian:
+==INSERT INFO HERE==
+
+-mArmyIconTundranTerritories:
+==INSERT INFO HERE==
+
+-mArmyIconSolarEmpire:
+==INSERT INFO HERE==
+
+-mArmyIconUnderworld:
+==INSERT INFO HERE==
+
+-mArmyIconAngloIsles:
+==INSERT INFO HERE==
+
+-mArmyIconMultipleArmies:
+==INSERT INFO HERE==
+
+-mMultipleArmiesBackground:
+==INSERT INFO HERE==
+
+-mMultipleArmiesBackgroundSel:
+==INSERT INFO HERE==
+
+-mNotificationPauseAccept:
+==INSERT INFO HERE==
+
+-mNotificationPauseCancel:
+==INSERT INFO HERE==
+
+-mDeadCameraIcon:
+==INSERT INFO HERE==
+
+-mControllerScreenLine0:
+==INSERT INFO HERE==
+
+-mControllerScreenLine1:
+==INSERT INFO HERE==
+
+-mControllerScreenLine2:
+==INSERT INFO HERE==
+
+-mControllerScreenLine3:
+==INSERT INFO HERE==
+
+-mControllerScreenLine4:
+==INSERT INFO HERE==
+
+-mControllerScreenLine5:
+==INSERT INFO HERE==
+
+-mControllerScreenLine6:
+==INSERT INFO HERE==
+
+-mControllerScreenLine7:
+==INSERT INFO HERE==
+
+-mControllerScreenLine8:
+==INSERT INFO HERE==
+
+-mControllerScreenLine9:
+==INSERT INFO HERE==
+
+-mControllerScreenLine10:
+==INSERT INFO HERE==
+
+-mControllerScreenLine11:
+==INSERT INFO HERE==
+
+-mControllerScreenLine12:
+==INSERT INFO HERE==
+
+-mControllerScreenLine13:
+==INSERT INFO HERE==
+
+-mControllerScreenLine14:
+==INSERT INFO HERE==
+
+-mControllerScreenLine15:
+==INSERT INFO HERE==
+
+-mControllerScreenLine16:
+==INSERT INFO HERE==
+

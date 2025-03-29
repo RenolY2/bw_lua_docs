@@ -1,0 +1,80 @@
+>BOTH:
+-CollideType:
+==INSERT INFO HERE==
+
+-ObjFlags:
+==INSERT INFO HERE==
+
+-MaxHealth:
+==INSERT INFO HERE==
+
+-MaxUsedTypes:
+==INSERT INFO HERE==
+
+-ScnComponentAngle:
+==INSERT INFO HERE==
+
+-mSurfaceType:
+==INSERT INFO HERE==
+
+-mfGroundLightFactor:
+==INSERT INFO HERE==
+
+-mfAlphaFadeDistBias:
+==INSERT INFO HERE==
+
+-mbHonourSpacingOverNumber:
+==INSERT INFO HERE==
+
+-Element:
+==INSERT INFO HERE==
+
+-DeadElement:
+==INSERT INFO HERE==
+
+-MaxSize:
+==INSERT INFO HERE==
+
+-MaxLength:
+==INSERT INFO HERE==
+
+-MinSep:
+==INSERT INFO HERE==
+
+-MaxSep:
+==INSERT INFO HERE==
+
+-MinScnComponentSize:
+==INSERT INFO HERE==
+
+-MaxScnComponentSize:
+==INSERT INFO HERE==
+
+-NumOfElement:
+==INSERT INFO HERE==
+
+>BW2:
+-mfGroundLightColourSaturation:
+==INSERT INFO HERE==
+
+-mfAlphaFadeDistMax:
+==INSERT INFO HERE==
+
+-meAlphaFadeCameraType:
+==INSERT INFO HERE==
+
+-meAlphaFadeDistanceType:
+==INSERT INFO HERE==
+
+-mbUseMatrix:
+==INSERT INFO HERE==
+
+-mShadowTexture:
+==INSERT INFO HERE==
+
+-mShadowScaleFactor:
+==INSERT INFO HERE==
+
+-mShadowPerNode:
+==INSERT INFO HERE==
+

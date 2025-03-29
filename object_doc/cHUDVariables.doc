@@ -1,0 +1,740 @@
+>BOTH:
+-mNonSelectedGreen:
+==INSERT INFO HERE==
+
+-mMidGrey:
+==INSERT INFO HERE==
+
+-mYellow:
+==INSERT INFO HERE==
+
+-mNonBleedingRed:
+==INSERT INFO HERE==
+
+-mTextColour:
+==INSERT INFO HERE==
+
+-mEnemyTextColour:
+==INSERT INFO HERE==
+
+-mWFRadarColour:
+==INSERT INFO HERE==
+
+-mXYRadarColour:
+==INSERT INFO HERE==
+
+-mTURadarColour:
+==INSERT INFO HERE==
+
+-mSERadarColour:
+==INSERT INFO HERE==
+
+-mUWRadarColour:
+==INSERT INFO HERE==
+
+-mOverHeadSpriteOffset:
+==INSERT INFO HERE==
+
+-mOverHeadSpriteScale:
+==INSERT INFO HERE==
+
+-mCBScreenPos:
+==INSERT INFO HERE==
+
+-mCBOffScreenPos:
+==INSERT INFO HERE==
+
+-mCBSpacing:
+==INSERT INFO HERE==
+
+-mCBTime:
+==INSERT INFO HERE==
+
+-mCBStackTime:
+==INSERT INFO HERE==
+
+-mCBPlayerScreenPos:
+==INSERT INFO HERE==
+
+-mCBPlayerIconScale:
+==INSERT INFO HERE==
+
+-mCBPlayerIconScaleSel:
+==INSERT INFO HERE==
+
+-mCBPlayerHealthPos:
+==INSERT INFO HERE==
+
+-mCBPlayerHealthScale:
+==INSERT INFO HERE==
+
+-mCBPlayerStackPos:
+==INSERT INFO HERE==
+
+-mCBPlayerStackSpacing:
+==INSERT INFO HERE==
+
+-mCBPlayerStackBoxScale:
+==INSERT INFO HERE==
+
+-mCBFormationScreenPos:
+==INSERT INFO HERE==
+
+-mCBStackPos:
+==INSERT INFO HERE==
+
+-mCBStackSpacing:
+==INSERT INFO HERE==
+
+-mCBStackIconScale:
+==INSERT INFO HERE==
+
+-mCBStackIconScaleSelected:
+==INSERT INFO HERE==
+
+-mCBStackBoxScale:
+==INSERT INFO HERE==
+
+-mCBStackIconSelected:
+==INSERT INFO HERE==
+
+-mCBStackIconNormal:
+==INSERT INFO HERE==
+
+-mCBStackIconKnockedBack:
+==INSERT INFO HERE==
+
+-mCBStackBoxSelected:
+==INSERT INFO HERE==
+
+-mCBStackBoxNormal:
+==INSERT INFO HERE==
+
+-mCBStackDeathCross:
+==INSERT INFO HERE==
+
+-mBStackItemIconScale:
+==INSERT INFO HERE==
+
+-mBStackItemIconScaleSel:
+==INSERT INFO HERE==
+
+-mBStackItemHealthPos:
+==INSERT INFO HERE==
+
+-mBStackItemHealthScale:
+==INSERT INFO HERE==
+
+-mBStackItemHealthScaleSel:
+==INSERT INFO HERE==
+
+-mBStackItemStatusPos:
+==INSERT INFO HERE==
+
+-mBStackItemStatusScale:
+==INSERT INFO HERE==
+
+-mBStackItemStatusScaleSel:
+==INSERT INFO HERE==
+
+-mBStackItemNormalColour:
+==INSERT INFO HERE==
+
+-mBStackItemSelectedColour:
+==INSERT INFO HERE==
+
+-mBPStackItemIconScale:
+==INSERT INFO HERE==
+
+-mBPStackItemIconScaleSel:
+==INSERT INFO HERE==
+
+-mBPStackItemHealthPos:
+==INSERT INFO HERE==
+
+-mBPStackItemHealthScale:
+==INSERT INFO HERE==
+
+-mBPStackItemHealthScaleSel:
+==INSERT INFO HERE==
+
+-mBPStackItemStatusPos:
+==INSERT INFO HERE==
+
+-mBPStackItemStatusScale:
+==INSERT INFO HERE==
+
+-mBPStackItemStatusScaleSel:
+==INSERT INFO HERE==
+
+-mRadarScreenPos:
+==INSERT INFO HERE==
+
+-mRadarScreenSize:
+==INSERT INFO HERE==
+
+-mLeftSidePos:
+==INSERT INFO HERE==
+
+-mLeftSideScale:
+==INSERT INFO HERE==
+
+-mRightSidePos:
+==INSERT INFO HERE==
+
+-mRightSideScale:
+==INSERT INFO HERE==
+
+-mMiddlePos:
+==INSERT INFO HERE==
+
+-mMiddleScale:
+==INSERT INFO HERE==
+
+-mTextPos:
+==INSERT INFO HERE==
+
+-mCommanderPos:
+==INSERT INFO HERE==
+
+-mLighteningPos:
+==INSERT INFO HERE==
+
+-mLighteningScale:
+==INSERT INFO HERE==
+
+-mControllerScreenSpriteOffset:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake0:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake0:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake0:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake0:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake0:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake1:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake1:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake1:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake1:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake1:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake2:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake2:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake2:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake2:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake2:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake3:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake3:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake3:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake3:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake3:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake4:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake4:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake4:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake4:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake4:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake5:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake5:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake5:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake5:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake5:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake6:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake6:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake6:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake6:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake6:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake7:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake7:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake7:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake7:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake7:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake8:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake8:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake8:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake8:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake8:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake9:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake9:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake9:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake9:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake9:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake10:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake10:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake10:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake10:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake10:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake11:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake11:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake11:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake11:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake11:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake12:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake12:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake12:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake12:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake12:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake13:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake13:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake13:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake13:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake13:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake14:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake14:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake14:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake14:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake14:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake15:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake15:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake15:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake15:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake15:
+==INSERT INFO HERE==
+
+-mControllerScreenTextPosFake16:
+==INSERT INFO HERE==
+
+-mControllerScreenTextJustFake16:
+==INSERT INFO HERE==
+
+-mControllerScreenTextIndexFake16:
+==INSERT INFO HERE==
+
+-mGVControllerScreenTextIndexFake16:
+==INSERT INFO HERE==
+
+-mAVControllerScreenTextIndexFake16:
+==INSERT INFO HERE==
+
+-mMS_ControlSpritePos:
+==INSERT INFO HERE==
+
+-mMS_ControlTextPos:
+==INSERT INFO HERE==
+
+-mMS_ControlTextIndex:
+==INSERT INFO HERE==
+
+-mMS_ControlTextJust:
+==INSERT INFO HERE==
+
+-mMS_ControlInitialFadeInTime:
+==INSERT INFO HERE==
+
+-mMS_ControlMaxAlpha:
+==INSERT INFO HERE==
+
+-mMS_ControlMaxAlphaTime:
+==INSERT INFO HERE==
+
+-mMS_ControlFinalFadeOutTime:
+==INSERT INFO HERE==
+
+-mMS_ControlFinalFadeOutAlpha:
+==INSERT INFO HERE==
+
+-mTmpPos:
+==INSERT INFO HERE==
+
+-mTmpScale:
+==INSERT INFO HERE==
+
+>BW2:
+-mNuetralRadarColour:
+==INSERT INFO HERE==
+
+-mAGRadarColour:
+==INSERT INFO HERE==
+
+-mWFHealthBarColour:
+==INSERT INFO HERE==
+
+-mXYHealthBarColour:
+==INSERT INFO HERE==
+
+-mTUHealthBarColour:
+==INSERT INFO HERE==
+
+-mSEHealthBarColour:
+==INSERT INFO HERE==
+
+-mUWHealthBarColour:
+==INSERT INFO HERE==
+
+-mNuetralHealthBarColour:
+==INSERT INFO HERE==
+
+-mAGHealthBarColour:
+==INSERT INFO HERE==
+
+-mWFTextColour:
+==INSERT INFO HERE==
+
+-mXYTextColour:
+==INSERT INFO HERE==
+
+-mTUTextColour:
+==INSERT INFO HERE==
+
+-mSETextColour:
+==INSERT INFO HERE==
+
+-mUWTextColour:
+==INSERT INFO HERE==
+
+-mNuetralTextColour:
+==INSERT INFO HERE==
+
+-mAGTextColour:
+==INSERT INFO HERE==
+
+-mWFBckGrndColour:
+==INSERT INFO HERE==
+
+-mXYBckGrndColour:
+==INSERT INFO HERE==
+
+-mTUBckGrndColour:
+==INSERT INFO HERE==
+
+-mSEBckGrndColour:
+==INSERT INFO HERE==
+
+-mUWBckGrndColour:
+==INSERT INFO HERE==
+
+-mNuetralBckGrndColour:
+==INSERT INFO HERE==
+
+-mAGBckGrndColour:
+==INSERT INFO HERE==
+
+-m_ReticuleStateData:
+==INSERT INFO HERE==
+
+-mCBBuildingScreenPos:
+==INSERT INFO HERE==
+
+-mCBBuildingSpacing:
+==INSERT INFO HERE==
+
+-mShowRadar:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake0:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake0:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake0:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake1:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake1:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake1:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake2:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake2:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake2:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake3:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake3:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake3:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake4:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake4:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake4:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake5:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake5:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake5:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake6:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake6:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake6:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake7:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake7:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake7:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake8:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake8:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake8:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake9:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake9:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake9:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake10:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake10:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake10:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake11:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake11:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake11:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake12:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake12:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake12:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake13:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake13:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake13:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake14:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake14:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake14:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake15:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake15:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake15:
+==INSERT INFO HERE==
+
+-mControllerScreenLinePosFake16:
+==INSERT INFO HERE==
+
+-mWVControllerScreenTextIndexFake16:
+==INSERT INFO HERE==
+
+-mMPOnlyControllerScreenTextFake16:
+==INSERT INFO HERE==
+
+-mSendToPositionEffect:
+==INSERT INFO HERE==
+
+-mPauseNotificationPos:
+==INSERT INFO HERE==
+
+-mPauseNotificationScale:
+==INSERT INFO HERE==
+

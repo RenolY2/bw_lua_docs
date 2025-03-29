@@ -1,0 +1,134 @@
+>BOTH:
+-mModel:
+==INSERT INFO HERE==
+
+-mObjFlags:
+==INSERT INFO HERE==
+
+-mAccel:
+==INSERT INFO HERE==
+
+-mThrustDelay:
+==INSERT INFO HERE==
+
+-mDrag:
+==INSERT INFO HERE==
+
+-mTurnSpeed:
+==INSERT INFO HERE==
+
+-mTimeToMaxTurnSpeed:
+==INSERT INFO HERE==
+
+-mMaxLifeTime:
+==INSERT INFO HERE==
+
+-mBounceFactor:
+==INSERT INFO HERE==
+
+-mSHMVel:
+==INSERT INFO HERE==
+
+-mSHMFactor:
+==INSERT INFO HERE==
+
+-mCollideWith:
+==INSERT INFO HERE==
+
+-mDodgeChance:
+==INSERT INFO HERE==
+
+-mTimeToSendIncomingMessage:
+==INSERT INFO HERE==
+
+-mReactionTime:
+==INSERT INFO HERE==
+
+-mDamageType:
+==INSERT INFO HERE==
+
+-mDamageAmount:
+==INSERT INFO HERE==
+
+-mImpactTable:
+==INSERT INFO HERE==
+
+-mTequilaEffect:
+==INSERT INFO HERE==
+
+-mScatterNum:
+==INSERT INFO HERE==
+
+-mScatterType:
+==INSERT INFO HERE==
+
+-mpSoundBase:
+==INSERT INFO HERE==
+
+-mMaxWarningDistance:
+==INSERT INFO HERE==
+
+-mMinWarningDistance:
+==INSERT INFO HERE==
+
+-mTimeBetweenWarningsAtMinDistance:
+==INSERT INFO HERE==
+
+-mTimeBetweenWarningsAtMaxDistance:
+==INSERT INFO HERE==
+
+-mJetStartScale:
+==INSERT INFO HERE==
+
+-mJetEndScale:
+==INSERT INFO HERE==
+
+>BW2:
+-mBombDropDistance:
+==INSERT INFO HERE==
+
+-mWaterDrag:
+==INSERT INFO HERE==
+
+-mRunningDepth:
+==INSERT INFO HERE==
+
+-mExplodeDepth:
+==INSERT INFO HERE==
+
+-mFloatFactor:
+==INSERT INFO HERE==
+
+-mProximityFuseDistance:
+==INSERT INFO HERE==
+
+-mHeightBasedEvadeChance:
+==INSERT INFO HERE==
+
+-mUnderwaterDamageFactor:
+==INSERT INFO HERE==
+
+-mTequilaWaterEffect:
+==INSERT INFO HERE==
+
+-mHitNoDamageRicochetEffect:
+==INSERT INFO HERE==
+
+-mRicochetTequilaEffect:
+==INSERT INFO HERE==
+
+-mRicochetSoundBase:
+==INSERT INFO HERE==
+
+-mCoverRicochetSoundBase:
+==INSERT INFO HERE==
+
+-mRicochetChance:
+==INSERT INFO HERE==
+
+-mRollDodgeMax:
+==INSERT INFO HERE==
+
+-mRollDodgeMin:
+==INSERT INFO HERE==
+

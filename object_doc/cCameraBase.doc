@@ -1,0 +1,46 @@
+>BOTH:
+-motionBlurInterpTime:
+==INSERT INFO HERE==
+
+-targetTime:
+==INSERT INFO HERE==
+
+-decayFactor:
+==INSERT INFO HERE==
+
+-expMagnifier:
+==INSERT INFO HERE==
+
+-minHeightAboveGround:
+==INSERT INFO HERE==
+
+-mCamFlags:
+==INSERT INFO HERE==
+
+-blurAmount:
+==INSERT INFO HERE==
+
+-lagFactor:
+==INSERT INFO HERE==
+
+-initialLagFactor:
+==INSERT INFO HERE==
+
+-lagInterpolationTime:
+==INSERT INFO HERE==
+
+-rotFreq:
+==INSERT INFO HERE==
+
+-maxShakeRot:
+==INSERT INFO HERE==
+
+-minShakeRot:
+==INSERT INFO HERE==
+
+-fov:
+==INSERT INFO HERE==
+
+-fovAccel:
+==INSERT INFO HERE==
+

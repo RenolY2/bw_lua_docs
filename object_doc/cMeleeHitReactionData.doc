@@ -1,0 +1,67 @@
+>BW2:
+-mMeleeStrikeDamageModifier:
+==INSERT INFO HERE==
+
+-mMeleeCollisionCapsuleRadius:
+==INSERT INFO HERE==
+
+-mSmallHitFwdSpeed:
+==INSERT INFO HERE==
+
+-mSmallHitBckSpeed:
+==INSERT INFO HERE==
+
+-mSmallHitMinTimeS:
+==INSERT INFO HERE==
+
+-mSmallHitImpulseScale:
+==INSERT INFO HERE==
+
+-mSmallHitBlockedImpulseScale:
+==INSERT INFO HERE==
+
+-mMediumHitFwdSpeed:
+==INSERT INFO HERE==
+
+-mMediumHitBckSpeed:
+==INSERT INFO HERE==
+
+-mMediumHitMinTimeS:
+==INSERT INFO HERE==
+
+-mMediumHitImpulseScale:
+==INSERT INFO HERE==
+
+-mMediumHitBlockedImpulseScale:
+==INSERT INFO HERE==
+
+-mBigHitFwdSpeed:
+==INSERT INFO HERE==
+
+-mBigHitBckSpeed:
+==INSERT INFO HERE==
+
+-mBigHitMinTimeS:
+==INSERT INFO HERE==
+
+-mBigHitImpulseScale:
+==INSERT INFO HERE==
+
+-mBigHitBlockedImpulseScale:
+==INSERT INFO HERE==
+
+-mKnockdownHitFwdSpeed:
+==INSERT INFO HERE==
+
+-mKnockdownHitBckSpeed:
+==INSERT INFO HERE==
+
+-mKnockdownHitMinTimeS:
+==INSERT INFO HERE==
+
+-mKnockdownHitImpulseScale:
+==INSERT INFO HERE==
+
+-mKnockdownHitBlockedImpulseScale:
+==INSERT INFO HERE==
+

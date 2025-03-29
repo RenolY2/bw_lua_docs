@@ -1,0 +1,55 @@
+>BOTH:
+-mIdleLoopSoundBase:
+==INSERT INFO HERE==
+
+-mEngineLoop1SoundBase:
+==INSERT INFO HERE==
+
+-mEngineLoop2SoundBase:
+==INSERT INFO HERE==
+
+-mAirLoopSoundBase:
+==INSERT INFO HERE==
+
+-mIdleLoopVolumeCurve:
+==INSERT INFO HERE==
+
+-mIdleLoopPitchCurve:
+==INSERT INFO HERE==
+
+-mEngineLoop1VolumeCurve:
+==INSERT INFO HERE==
+
+-mEngineLoop1PitchCurve:
+==INSERT INFO HERE==
+
+-mEngineLoop2VolumeCurve:
+==INSERT INFO HERE==
+
+-mEngineLoop2PitchCurve:
+==INSERT INFO HERE==
+
+-mAirLoopVolumeCurve:
+==INSERT INFO HERE==
+
+-mAirLoopPitchCurve:
+==INSERT INFO HERE==
+
+-mIdleLoopVolumeCurveController:
+==INSERT INFO HERE==
+
+-mIdleLoopPitchCurveController:
+==INSERT INFO HERE==
+
+-mEngineLoopVolumeCurveController:
+==INSERT INFO HERE==
+
+-mEngineLoopPitchCurveController:
+==INSERT INFO HERE==
+
+-mAirLoopVolumeCurveController:
+==INSERT INFO HERE==
+
+-mAirLoopPitchCurveController:
+==INSERT INFO HERE==
+

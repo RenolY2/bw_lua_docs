@@ -1,0 +1,468 @@
+>BOTH:
+-mFlagGood:
+==INSERT INFO HERE==
+
+-mFlagBad:
+==INSERT INFO HERE==
+
+-mFlagTundran:
+==INSERT INFO HERE==
+
+-mFlagSolar:
+==INSERT INFO HERE==
+
+-mFlagUnderWorld:
+==INSERT INFO HERE==
+
+-mRaiseLowerSpeed:
+==INSERT INFO HERE==
+
+-NeutralFlagCapturedByEnemy:
+==INSERT INFO HERE==
+
+-NeutralFlagCapturedByAllied:
+==INSERT INFO HERE==
+
+-NeutralFlagOwnedByEnemy:
+==INSERT INFO HERE==
+
+-NeutralFlagOwnedByAllied:
+==INSERT INFO HERE==
+
+-CapturedFlagOccupiedByEnemy:
+==INSERT INFO HERE==
+
+-CapturedFlagOccupiedByAllied:
+==INSERT INFO HERE==
+
+-CapturedFlagTakenByEnemy:
+==INSERT INFO HERE==
+
+-CapturedFlagTakenByAllied:
+==INSERT INFO HERE==
+
+-NeutralFlagBeingCapturedByAlliedUnderAttack:
+==INSERT INFO HERE==
+
+-mPulleyLoopSound:
+==INSERT INFO HERE==
+
+-mUnitFlags:
+==INSERT INFO HERE==
+
+-mUnitSprite:
+==INSERT INFO HERE==
+
+-mCatchFireHealth:
+==INSERT INFO HERE==
+
+-mBurnToDeathTime:
+==INSERT INFO HERE==
+
+-mDisplayNameStringID:
+==INSERT INFO HERE==
+
+-mNoMap:
+==INSERT INFO HERE==
+
+-mNoRadar:
+==INSERT INFO HERE==
+
+-mArmy:
+==INSERT INFO HERE==
+
+-mIdleTurnProbabilityPcent:
+==INSERT INFO HERE==
+
+-mBanterChance:
+==INSERT INFO HERE==
+
+-mBanterFrequency:
+==INSERT INFO HERE==
+
+-mBlurSpeed:
+==INSERT INFO HERE==
+
+-mBlurAmount:
+==INSERT INFO HERE==
+
+-unitIcon:
+==INSERT INFO HERE==
+
+-mpModel:
+==INSERT INFO HERE==
+
+-mpDeadModel:
+==INSERT INFO HERE==
+
+-mYOffset:
+==INSERT INFO HERE==
+
+-mIndestructible:
+==INSERT INFO HERE==
+
+-mDamageFromVehicleCollisions:
+==INSERT INFO HERE==
+
+-mMaxHealth:
+==INSERT INFO HERE==
+
+-mDamageType:
+==INSERT INFO HERE==
+
+-mDamageFactor:
+==INSERT INFO HERE==
+
+-mSmoulderingThreshold:
+==INSERT INFO HERE==
+
+-mBurningThreshold:
+==INSERT INFO HERE==
+
+-mCoolingRate:
+==INSERT INFO HERE==
+
+-mFlameDamageRate:
+==INSERT INFO HERE==
+
+-mFireDamageRate:
+==INSERT INFO HERE==
+
+-mRammingStrength:
+==INSERT INFO HERE==
+
+-mRammingResistance:
+==INSERT INFO HERE==
+
+-mExplodeType:
+==INSERT INFO HERE==
+
+-mpScorchTexture:
+==INSERT INFO HERE==
+
+-mfGroundLightFactor:
+==INSERT INFO HERE==
+
+-mTaggedEffectBase:
+==INSERT INFO HERE==
+
+-mTakingDamageEffect:
+==INSERT INFO HERE==
+
+-mTakingHealingEffect:
+==INSERT INFO HERE==
+
+-mDrowningEffect:
+==INSERT INFO HERE==
+
+-mDeadModelDecayTime:
+==INSERT INFO HERE==
+
+-mSurfaceType:
+==INSERT INFO HERE==
+
+-mCamPos:
+==INSERT INFO HERE==
+
+-mCamPos2:
+==INSERT INFO HERE==
+
+-mCamLookPos:
+==INSERT INFO HERE==
+
+-mCamLookPos2:
+==INSERT INFO HERE==
+
+-mCamCloseUpPos:
+==INSERT INFO HERE==
+
+-mMultiplayerCamPos:
+==INSERT INFO HERE==
+
+-mMultiplayerCamLookPos:
+==INSERT INFO HERE==
+
+-mPivotOffset:
+==INSERT INFO HERE==
+
+-mLagFactor:
+==INSERT INFO HERE==
+
+-mMaximumCameraSpeed:
+==INSERT INFO HERE==
+
+-mSeatData:
+==INSERT INFO HERE==
+
+-mDefensiveRadius:
+==INSERT INFO HERE==
+
+-mHearingRange:
+==INSERT INFO HERE==
+
+-mMaxAttackers:
+==INSERT INFO HERE==
+
+-mTargetingDistance:
+==INSERT INFO HERE==
+
+-mRadarRange:
+==INSERT INFO HERE==
+
+-lagFactor:
+==INSERT INFO HERE==
+
+-initialLagFactor:
+==INSERT INFO HERE==
+
+-lagInterpolationTime:
+==INSERT INFO HERE==
+
+-mPickupDropped:
+==INSERT INFO HERE==
+
+-mPickupLaunchVelocity:
+==INSERT INFO HERE==
+
+-mConsiderPickupRange:
+==INSERT INFO HERE==
+
+-mRetargetTime:
+==INSERT INFO HERE==
+
+-mSightRange:
+==INSERT INFO HERE==
+
+-mMovementSightRange:
+==INSERT INFO HERE==
+
+-mSightCone:
+==INSERT INFO HERE==
+
+-mShadowTexture:
+==INSERT INFO HERE==
+
+-mShadowScaleFactor:
+==INSERT INFO HERE==
+
+>BW1:
+-mFriendlyUnitResponseRange:
+==INSERT INFO HERE==
+
+>BW2:
+-mFlagAnglo:
+==INSERT INFO HERE==
+
+-mNaturalFallSpeed:
+==INSERT INFO HERE==
+
+-mRaiseAnimType:
+==INSERT INFO HERE==
+
+-mCapturePointType:
+==INSERT INFO HERE==
+
+-mWindBlowFlag:
+==INSERT INFO HERE==
+
+-mCaptureOnceOnly:
+==INSERT INFO HERE==
+
+-RadioMastEffect_WesternFrontier:
+==INSERT INFO HERE==
+
+-RadioMastEffect_Xylvanian:
+==INSERT INFO HERE==
+
+-RadioMastEffect_TundranTerritories:
+==INSERT INFO HERE==
+
+-RadioMastEffect_SolarEmpire:
+==INSERT INFO HERE==
+
+-RadioMastEffect_UnderWorld:
+==INSERT INFO HERE==
+
+-RadioMastEffect_AngloIsles:
+==INSERT INFO HERE==
+
+-RadioTopEffect_WesternFrontier:
+==INSERT INFO HERE==
+
+-RadioTopEffect_Xylvanian:
+==INSERT INFO HERE==
+
+-RadioTopEffect_TundranTerritories:
+==INSERT INFO HERE==
+
+-RadioTopEffect_SolarEmpire:
+==INSERT INFO HERE==
+
+-RadioTopEffect_UnderWorld:
+==INSERT INFO HERE==
+
+-RadioTopEffect_AngloIsles:
+==INSERT INFO HERE==
+
+-mBuildingIconType:
+==INSERT INFO HERE==
+
+-mNoBurntColour:
+==INSERT INFO HERE==
+
+-mDisplayFullNameStringID:
+==INSERT INFO HERE==
+
+-mAppearNeutral:
+==INSERT INFO HERE==
+
+-mDontUseNeutralColour:
+==INSERT INFO HERE==
+
+-mNonTargetable:
+==INSERT INFO HERE==
+
+-mGhostArmy:
+==INSERT INFO HERE==
+
+-mUnitSubType:
+==INSERT INFO HERE==
+
+-mKWUnitClass:
+==INSERT INFO HERE==
+
+-mSteeringClampAngle:
+==INSERT INFO HERE==
+
+-mSteeringClampAngleLocked:
+==INSERT INFO HERE==
+
+-UseAnim:
+==INSERT INFO HERE==
+
+-mPlayerDamageOnly:
+==INSERT INFO HERE==
+
+-mDefaultDamageFactor:
+==INSERT INFO HERE==
+
+-mfGroundLightColourSaturation:
+==INSERT INFO HERE==
+
+-mNumLeftBehindCollisionNodes:
+==INSERT INFO HERE==
+
+-mpConstructionSound:
+==INSERT INFO HERE==
+
+-mpAmbientLoop:
+==INSERT INFO HERE==
+
+-mAimOffsetPos:
+==INSERT INFO HERE==
+
+-mbUseAimOffsetPosition:
+==INSERT INFO HERE==
+
+-mMinGuardRadius:
+==INSERT INFO HERE==
+
+-mRevConScrollRegion:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionUp:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionDown:
+==INSERT INFO HERE==
+
+-mRevConCameraAngleUp:
+==INSERT INFO HERE==
+
+-mRevConCameraAngleDown:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionAdvanced:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionUpAdvanced:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionDownAdvanced:
+==INSERT INFO HERE==
+
+-mRevConCameraAngleUpAdvanced:
+==INSERT INFO HERE==
+
+-mRevConCameraAngleDownAdvanced:
+==INSERT INFO HERE==
+
+-mSpawningSound:
+==INSERT INFO HERE==
+
+-mSpawningEffect:
+==INSERT INFO HERE==
+
+-mReviveTime:
+==INSERT INFO HERE==
+
+-mReviveCost:
+==INSERT INFO HERE==
+
+-mRetargetRange:
+==INSERT INFO HERE==
+
+-mPersonalSpaceRange:
+==INSERT INFO HERE==
+
+-mAllyRegroupRadius:
+==INSERT INFO HERE==
+
+-mAllySupportRadius:
+==INSERT INFO HERE==
+
+-mEnemyNotificationRange:
+==INSERT INFO HERE==
+
+-mIgnoreNotificationRange:
+==INSERT INFO HERE==
+
+-mAlternateTargetRange:
+==INSERT INFO HERE==
+
+-mCanDoPassingAttacks:
+==INSERT INFO HERE==
+
+-mDefaultPickupLaunchVelocity:
+==INSERT INFO HERE==
+
+-mInvisType:
+==INSERT INFO HERE==
+
+-mDetectInvisType:
+==INSERT INFO HERE==
+
+-mInvisDetectedTime:
+==INSERT INFO HERE==
+
+-mAttackInvisDistance:
+==INSERT INFO HERE==
+
+-mScore:
+==INSERT INFO HERE==
+
+-mDeathScoreEffect:
+==INSERT INFO HERE==
+
+-mMaxDamageRumble:
+==INSERT INFO HERE==
+
+-mMaxDamageRumbleTime:
+==INSERT INFO HERE==
+
+-mMinDamageRumble:
+==INSERT INFO HERE==
+
+-mMinDamageRumbleTime:
+==INSERT INFO HERE==
+

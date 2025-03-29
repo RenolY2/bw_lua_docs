@@ -1,0 +1,105 @@
+>BOTH:
+-mTurnRate:
+==INSERT INFO HERE==
+
+-mTurretMass:
+==INSERT INFO HERE==
+
+-mChassisMass:
+==INSERT INFO HERE==
+
+-mBarrelMass:
+==INSERT INFO HERE==
+
+-mWheelMass:
+==INSERT INFO HERE==
+
+-mInertiaBox:
+==INSERT INFO HERE==
+
+-mCMOffset:
+==INSERT INFO HERE==
+
+-mSteeringMode:
+==INSERT INFO HERE==
+
+-mMaxTotalTorque:
+==INSERT INFO HERE==
+
+-mFriction:
+==INSERT INFO HERE==
+
+-mLongSlip:
+==INSERT INFO HERE==
+
+-mLatSlip:
+==INSERT INFO HERE==
+
+-mEnableRighting:
+==INSERT INFO HERE==
+
+-mRightingForce:
+==INSERT INFO HERE==
+
+-mAntiRoll:
+==INSERT INFO HERE==
+
+-mAntiPitch:
+==INSERT INFO HERE==
+
+-mFireImpulse:
+==INSERT INFO HERE==
+
+-mTrackLinkSize:
+==INSERT INFO HERE==
+
+-mTrackThickness:
+==INSERT INFO HERE==
+
+>BW1:
+-mSuspensionStiffness:
+==INSERT INFO HERE==
+
+-mSuspensionDamping:
+==INSERT INFO HERE==
+
+>BW2:
+-mSmallAngleTurnRate:
+==INSERT INFO HERE==
+
+-mSmallAngle:
+==INSERT INFO HERE==
+
+-mTurnDamp:
+==INSERT INFO HERE==
+
+-mTurnSpeedDeductionGradient:
+==INSERT INFO HERE==
+
+-mTurnGenMiniumAngle:
+==INSERT INFO HERE==
+
+-mUseGeomInertia:
+==INSERT INFO HERE==
+
+-mSuspensionSpringTravel:
+==INSERT INFO HERE==
+
+-mSuspensionSpringStiffness:
+==INSERT INFO HERE==
+
+-mSuspensionSpringDamping:
+==INSERT INFO HERE==
+
+-mSuspensionStopBounce:
+==INSERT INFO HERE==
+
+-mBlastForceModifier:
+==INSERT INFO HERE==
+
+-mSolverAccuracy:
+==INSERT INFO HERE==
+
+-mSideSlideGripFactor:
+==INSERT INFO HERE==
+

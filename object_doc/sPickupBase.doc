@@ -1,0 +1,59 @@
+>BOTH:
+-mModel:
+==INSERT INFO HERE==
+
+-mSpawnEffect:
+==INSERT INFO HERE==
+
+-mActiveEffect:
+==INSERT INFO HERE==
+
+-mHitEffect:
+==INSERT INFO HERE==
+
+-mDespawnEffect:
+==INSERT INFO HERE==
+
+-mHitSoundBase:
+==INSERT INFO HERE==
+
+-mType:
+==INSERT INFO HERE==
+
+-mData:
+==INSERT INFO HERE==
+
+-mRotationRate:
+==INSERT INFO HERE==
+
+-mfGroundLightFactor:
+==INSERT INFO HERE==
+
+-mDespawnTimeOut:
+==INSERT INFO HERE==
+
+-mActiveEffectStartTime:
+==INSERT INFO HERE==
+
+>BW2:
+-mfGroundLightColourSaturation:
+==INSERT INFO HERE==
+
+-mAutoRespawnTime:
+==INSERT INFO HERE==
+
+-mAbsoluteHeight:
+==INSERT INFO HERE==
+
+-mFallSpeed:
+==INSERT INFO HERE==
+
+-mFallTime:
+==INSERT INFO HERE==
+
+-mRiseSpeed:
+==INSERT INFO HERE==
+
+-mRiseTime:
+==INSERT INFO HERE==
+

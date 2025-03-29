@@ -1,0 +1,134 @@
+>BOTH:
+-Model:
+==INSERT INFO HERE==
+
+-DamagedModel:
+==INSERT INFO HERE==
+
+-DeadModel:
+==INSERT INFO HERE==
+
+-Mass:
+==INSERT INFO HERE==
+
+-CollideType:
+==INSERT INFO HERE==
+
+-ObjFlags:
+==INSERT INFO HERE==
+
+-MaxHealth:
+==INSERT INFO HERE==
+
+-ExplodeType:
+==INSERT INFO HERE==
+
+-UseAnim:
+==INSERT INFO HERE==
+
+-AnimPos:
+==INSERT INFO HERE==
+
+-mfGroundLightFactor:
+==INSERT INFO HERE==
+
+-mSoftCollisionImpactTable:
+==INSERT INFO HERE==
+
+-mHardCollisionImpactTable:
+==INSERT INFO HERE==
+
+-mLoopingAliveSB:
+==INSERT INFO HERE==
+
+-mTaggedEffectBase:
+==INSERT INFO HERE==
+
+-mTakingDamageEffect:
+==INSERT INFO HERE==
+
+-mTakingHealingEffect:
+==INSERT INFO HERE==
+
+-mDrowningEffect:
+==INSERT INFO HERE==
+
+-mDeadModelDecayTime:
+==INSERT INFO HERE==
+
+-mSurfaceType:
+==INSERT INFO HERE==
+
+-mSmoulderingThreshold:
+==INSERT INFO HERE==
+
+-mBurningThreshold:
+==INSERT INFO HERE==
+
+-mCoolingRate:
+==INSERT INFO HERE==
+
+-mFlameDamageRate:
+==INSERT INFO HERE==
+
+-mFireDamageRate:
+==INSERT INFO HERE==
+
+-mRammingStrength:
+==INSERT INFO HERE==
+
+-mRammingResistance:
+==INSERT INFO HERE==
+
+>BW2:
+-mpScorchTexture:
+==INSERT INFO HERE==
+
+-mCameraClampHeight:
+==INSERT INFO HERE==
+
+-mfGroundLightColourSaturation:
+==INSERT INFO HERE==
+
+-mfAlphaFadeDistBias:
+==INSERT INFO HERE==
+
+-mfAlphaFadeDistMax:
+==INSERT INFO HERE==
+
+-DamageType:
+==INSERT INFO HERE==
+
+-DamageFactor:
+==INSERT INFO HERE==
+
+-mCoverPointBase:
+==INSERT INFO HERE==
+
+-mCoverPointDecalTexture:
+==INSERT INFO HERE==
+
+-mEffectWesternFrontier:
+==INSERT INFO HERE==
+
+-mEffectXylvanian:
+==INSERT INFO HERE==
+
+-mEffectTundran:
+==INSERT INFO HERE==
+
+-mEffectSolar:
+==INSERT INFO HERE==
+
+-mEffectUnderWorld:
+==INSERT INFO HERE==
+
+-mEffectAnglo:
+==INSERT INFO HERE==
+
+-mNumLeftBehindCollisionNodes:
+==INSERT INFO HERE==
+
+-mDefaultDamageFactor:
+==INSERT INFO HERE==
+

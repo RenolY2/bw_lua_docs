@@ -1,0 +1,59 @@
+>BOTH:
+-mfSizeX:
+==INSERT INFO HERE==
+
+-mfSizeVariationX:
+==INSERT INFO HERE==
+
+-mfPosVariation:
+==INSERT INFO HERE==
+
+-mfSlopeAngleRangeBegin:
+==INSERT INFO HERE==
+
+-mfSlopeAngleRangeEnd:
+==INSERT INFO HERE==
+
+-mfDensity:
+==INSERT INFO HERE==
+
+-mpTerrainTexture:
+==INSERT INFO HERE==
+
+-mpParticleTexture:
+==INSERT INFO HERE==
+
+-meTextureFrameFormat:
+==INSERT INFO HERE==
+
+-meMaterialAlphaMode:
+==INSERT INFO HERE==
+
+-miBlendOverlapRange:
+==INSERT INFO HERE==
+
+-mfBlendSizeScaleMin:
+==INSERT INFO HERE==
+
+-miFlags:
+==INSERT INFO HERE==
+
+-mfTextureFrameWeights2X2:
+==INSERT INFO HERE==
+
+-mfTextureFrameSkewSize2X2:
+==INSERT INFO HERE==
+
+-mfTextureFrameSizeVariation2X2:
+==INSERT INFO HERE==
+
+-meAnimationType:
+==INSERT INFO HERE==
+
+-mfAnimationStrength:
+==INSERT INFO HERE==
+
+>BW1:
+-mfAmbientLightReflected:
+==INSERT INFO HERE==
+

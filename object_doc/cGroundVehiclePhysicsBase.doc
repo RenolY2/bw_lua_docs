@@ -1,0 +1,83 @@
+>BOTH:
+-attackSpeed:
+==INSERT INFO HERE==
+
+-reverseSpeed:
+==INSERT INFO HERE==
+
+-swimSpeed:
+==INSERT INFO HERE==
+
+-patrolSpeed:
+==INSERT INFO HERE==
+
+-collisionMass:
+==INSERT INFO HERE==
+
+-driveAccln:
+==INSERT INFO HERE==
+
+-brakingAccln:
+==INSERT INFO HERE==
+
+-buoyancy:
+==INSERT INFO HERE==
+
+-maxSlope:
+==INSERT INFO HERE==
+
+-velDamping:
+==INSERT INFO HERE==
+
+-lateralVelDamping:
+==INSERT INFO HERE==
+
+-speedBleedFactor:
+==INSERT INFO HERE==
+
+-maxTurnRate:
+==INSERT INFO HERE==
+
+-turnAccln:
+==INSERT INFO HERE==
+
+-turnDamping:
+==INSERT INFO HERE==
+
+-minSpeedToTurn:
+==INSERT INFO HERE==
+
+-maxAngleWithGround:
+==INSERT INFO HERE==
+
+-maxRoll:
+==INSERT INFO HERE==
+
+-maxRollRate:
+==INSERT INFO HERE==
+
+-Drag:
+==INSERT INFO HERE==
+
+-AngDrag:
+==INSERT INFO HERE==
+
+-BrakeCoeff:
+==INSERT INFO HERE==
+
+-MomentOfInertia:
+==INSERT INFO HERE==
+
+-mPhysicsParams:
+==INSERT INFO HERE==
+
+>BW2:
+-controlEngineScale:
+==INSERT INFO HERE==
+
+-controlEngineDamping:
+==INSERT INFO HERE==
+
+-controlEngineError:
+==INSERT INFO HERE==
+

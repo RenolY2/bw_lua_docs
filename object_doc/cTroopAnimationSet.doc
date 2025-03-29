@@ -1,0 +1,530 @@
+>BOTH:
+-mWalkAnimation:
+==INSERT INFO HERE==
+
+-mRunAnimation:
+==INSERT INFO HERE==
+
+-mRunStopAnimation:
+==INSERT INFO HERE==
+
+-mWalkBackAnimation:
+==INSERT INFO HERE==
+
+-mRunBackAnimation:
+==INSERT INFO HERE==
+
+-mStrafeRightAnimation:
+==INSERT INFO HERE==
+
+-mStrafeLeftAnimation:
+==INSERT INFO HERE==
+
+-mStrafeRightRunAnimation:
+==INSERT INFO HERE==
+
+-mStrafeLeftRunAnimation:
+==INSERT INFO HERE==
+
+-mTurnLeftAnimation:
+==INSERT INFO HERE==
+
+-mTurnRightAnimation:
+==INSERT INFO HERE==
+
+-mCombatRollLeftAnimation:
+==INSERT INFO HERE==
+
+-mCombatRollRightAnimation:
+==INSERT INFO HERE==
+
+-mForwardRollAnimation:
+==INSERT INFO HERE==
+
+-mBackwardRollAnimation:
+==INSERT INFO HERE==
+
+-mCombatDiveLeftAnimation:
+==INSERT INFO HERE==
+
+-mCombatDiveRightAnimation:
+==INSERT INFO HERE==
+
+-mBreathAnimation:
+==INSERT INFO HERE==
+
+-mAlertBreathAnimation:
+==INSERT INFO HERE==
+
+-mScratchAnimation:
+==INSERT INFO HERE==
+
+-mAdjustHelmetAnimation:
+==INSERT INFO HERE==
+
+-mAlertLook1Animation:
+==INSERT INFO HERE==
+
+-mRelaxedLook1Animation:
+==INSERT INFO HERE==
+
+-mRelaxedLook2Animation:
+==INSERT INFO HERE==
+
+-mSaluteAnimation:
+==INSERT INFO HERE==
+
+-mForwardFireAnimation:
+==INSERT INFO HERE==
+
+-mFullForwardFireAnimation:
+==INSERT INFO HERE==
+
+-mReloadAnimation:
+==INSERT INFO HERE==
+
+-mGetupAnimation:
+==INSERT INFO HERE==
+
+-mEnemySpottedAnimation:
+==INSERT INFO HERE==
+
+-mClamberAnimation:
+==INSERT INFO HERE==
+
+-mHillSlideAnimation:
+==INSERT INFO HERE==
+
+-mJumpRiseAnimation:
+==INSERT INFO HERE==
+
+-mJumpStaticAnimation:
+==INSERT INFO HERE==
+
+-mJumpDropAnimation:
+==INSERT INFO HERE==
+
+-mJumpRunLandAnimation:
+==INSERT INFO HERE==
+
+-mWalkHopBackAnimation:
+==INSERT INFO HERE==
+
+-mRunHopBackAnimation:
+==INSERT INFO HERE==
+
+-mFallFlailAnimation:
+==INSERT INFO HERE==
+
+-mHitGroundAnimation:
+==INSERT INFO HERE==
+
+-mParachuteAnimation:
+==INSERT INFO HERE==
+
+-mSwimAnimation:
+==INSERT INFO HERE==
+
+-mSwimBackAnimation:
+==INSERT INFO HERE==
+
+-mSwimJumpAnimation:
+==INSERT INFO HERE==
+
+-mTreadWaterAnimation:
+==INSERT INFO HERE==
+
+-mWaterDeathAnimation:
+==INSERT INFO HERE==
+
+-mCrouchFireUpAnimation:
+==INSERT INFO HERE==
+
+-mCrouchFireAnimation:
+==INSERT INFO HERE==
+
+-mCrouchFireDownAnimation:
+==INSERT INFO HERE==
+
+-mLeftCrouchTurnAnimation:
+==INSERT INFO HERE==
+
+-mRightCrouchTurnAnimation:
+==INSERT INFO HERE==
+
+-mCrouchIdleAnimation:
+==INSERT INFO HERE==
+
+-mStand2CrouchAnimation:
+==INSERT INFO HERE==
+
+-mCrouch2StandAnimation:
+==INSERT INFO HERE==
+
+-mFireStraightAnimation:
+==INSERT INFO HERE==
+
+-mFireUpAnimation:
+==INSERT INFO HERE==
+
+-mFireDownAnimation:
+==INSERT INFO HERE==
+
+-mSteerFrontAnimation:
+==INSERT INFO HERE==
+
+-mSteerLeftAnimation:
+==INSERT INFO HERE==
+
+-mSteerRightAnimation:
+==INSERT INFO HERE==
+
+-mDriveStaticIdleAnimation:
+==INSERT INFO HERE==
+
+-mDriveBreathAnimation:
+==INSERT INFO HERE==
+
+-mDriveStaticBreathAnimation:
+==INSERT INFO HERE==
+
+-mBlownUpAnimation:
+==INSERT INFO HERE==
+
+-mDeath1Animation:
+==INSERT INFO HERE==
+
+-mDeath2Animation:
+==INSERT INFO HERE==
+
+-mDeath3Animation:
+==INSERT INFO HERE==
+
+-mDeath4Animation:
+==INSERT INFO HERE==
+
+-mDeath5Animation:
+==INSERT INFO HERE==
+
+-mRaiseFlag:
+==INSERT INFO HERE==
+
+-mPOWBreath:
+==INSERT INFO HERE==
+
+-mPOWIdle:
+==INSERT INFO HERE==
+
+-mStandOnFire:
+==INSERT INFO HERE==
+
+-mVictory1Animation:
+==INSERT INFO HERE==
+
+-mVictory2Animation:
+==INSERT INFO HERE==
+
+-mVictory3Animation:
+==INSERT INFO HERE==
+
+-mJumpLaunchBlendTime:
+==INSERT INFO HERE==
+
+-mJumpLandBlendTime:
+==INSERT INFO HERE==
+
+-mCombatDiveBlendTime:
+==INSERT INFO HERE==
+
+-mForwardRollBlendTime:
+==INSERT INFO HERE==
+
+-mWalkHopBackBlendTime:
+==INSERT INFO HERE==
+
+-mRunHopBackBlendTime:
+==INSERT INFO HERE==
+
+-mAimBlendInTime:
+==INSERT INFO HERE==
+
+-mAimBlendOutTime:
+==INSERT INFO HERE==
+
+-mJumpFallTime:
+==INSERT INFO HERE==
+
+-mLandWalkTime:
+==INSERT INFO HERE==
+
+-mRollWalkTime:
+==INSERT INFO HERE==
+
+-mWalkHopBackWalkTime:
+==INSERT INFO HERE==
+
+-mRunHopBackWalkTime:
+==INSERT INFO HERE==
+
+-mMaxLean:
+==INSERT INFO HERE==
+
+-mMinTimeBetweenActiveIdles:
+==INSERT INFO HERE==
+
+-mMaxTimeBetweenActiveIdles:
+==INSERT INFO HERE==
+
+-mMinimumAnimationTurnRate:
+==INSERT INFO HERE==
+
+-mIdle1Probability:
+==INSERT INFO HERE==
+
+-mIdle2Probability:
+==INSERT INFO HERE==
+
+-mIdle3Probability:
+==INSERT INFO HERE==
+
+-mIdle4Probability:
+==INSERT INFO HERE==
+
+-mIdle5Probability:
+==INSERT INFO HERE==
+
+-mDeath1Probability:
+==INSERT INFO HERE==
+
+-mDeath2Probability:
+==INSERT INFO HERE==
+
+-mDeath3Probability:
+==INSERT INFO HERE==
+
+-mDeath4Probability:
+==INSERT INFO HERE==
+
+-mDeath5Probability:
+==INSERT INFO HERE==
+
+-mVictory1Probability:
+==INSERT INFO HERE==
+
+-mVictory2Probability:
+==INSERT INFO HERE==
+
+-mVictory3Probability:
+==INSERT INFO HERE==
+
+-mVictoryDoNothingProbability:
+==INSERT INFO HERE==
+
+-mVictoryPlayAnimProbability:
+==INSERT INFO HERE==
+
+-mVictoryShootInAirProbability:
+==INSERT INFO HERE==
+
+>BW2:
+-mContextIdleList:
+==INSERT INFO HERE==
+
+-mChargeAnimation:
+==INSERT INFO HERE==
+
+-mHillSlideLeftAnimation:
+==INSERT INFO HERE==
+
+-mHillSlideRightAnimation:
+==INSERT INFO HERE==
+
+-mHillSlideBackwardAnimation:
+==INSERT INFO HERE==
+
+-mWeaponPowerUpAnimation:
+==INSERT INFO HERE==
+
+-mWeaponMaxPowerAnimation:
+==INSERT INFO HERE==
+
+-mWeaponFireAnimation:
+==INSERT INFO HERE==
+
+-mLeanLeftAnimation:
+==INSERT INFO HERE==
+
+-mLeanRightAnimation:
+==INSERT INFO HERE==
+
+-mHorseRearUpAnimation:
+==INSERT INFO HERE==
+
+-mUpperBodyAnimation_HighAim:
+==INSERT INFO HERE==
+
+-mTurnHandle:
+==INSERT INFO HERE==
+
+-mTurn180:
+==INSERT INFO HERE==
+
+-mMeleeStrike1Animation:
+==INSERT INFO HERE==
+
+-mMeleeStrike2Animation:
+==INSERT INFO HERE==
+
+-mMeleeStrike3Animation:
+==INSERT INFO HERE==
+
+-mMeleeStrike3UnlockedAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockBreakerAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockBreaker2Animation:
+==INSERT INFO HERE==
+
+-mMeleeEvasionStrikeLeftAnimation:
+==INSERT INFO HERE==
+
+-mMeleeEvasionStrikeRightAnimation:
+==INSERT INFO HERE==
+
+-mMeleeRunningStrikeAnimation:
+==INSERT INFO HERE==
+
+-mMeleePickupEnemyAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBePickedUpAnimation:
+==INSERT INFO HERE==
+
+-mMeleeStrikeTransition1Animation:
+==INSERT INFO HERE==
+
+-mMeleeStrikeTransition2Animation:
+==INSERT INFO HERE==
+
+-mMeleeStrikeTransition3Animation:
+==INSERT INFO HERE==
+
+-mMeleeStrikeTransition3UnlockedAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockBreakerTransitionAnimation:
+==INSERT INFO HERE==
+
+-mMeleeRunningStrikeTransitionAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockWalkLeftAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockWalkRightAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockWalkForwardAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockWalkBackwardAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockSkidAnimation:
+==INSERT INFO HERE==
+
+-mMeleeEvasionLeftLockedAnimation:
+==INSERT INFO HERE==
+
+-mMeleeEvasionRightLockedAnimation:
+==INSERT INFO HERE==
+
+-mMeleeEvasionForwardLockedAnimation:
+==INSERT INFO HERE==
+
+-mMeleeEvasionBackwardLockedAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBlockedStrikeReactionAnimation:
+==INSERT INFO HERE==
+
+-mMeleeSmallHitReactionForwardAnimation:
+==INSERT INFO HERE==
+
+-mMeleeSmallHitReactionBackwardAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBigHitReactionForwardAnimation:
+==INSERT INFO HERE==
+
+-mMeleeBigHitReactionBackwardAnimation:
+==INSERT INFO HERE==
+
+-mMeleeKnockdownHitReactionForwardAnimation:
+==INSERT INFO HERE==
+
+-mMeleeKnockdownHitReactionBackwardAnimation:
+==INSERT INFO HERE==
+
+-mMeleeSpearmanBraceAnimation:
+==INSERT INFO HERE==
+
+-mMeleeSpearmanCowerAnimation:
+==INSERT INFO HERE==
+
+-mWalkAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mRunAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mRunStopAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mWalkBackAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mRunBackAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mStrafeRightAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mStrafeLeftAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mStrafeRightRunAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mStrafeLeftRunAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mTurnLeftAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mTurnRightAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mForwardRollAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mBackwardRollAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mCombatMoveLeftAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mCombatMoveRightAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mIdleAnimation_meleeLocked:
+==INSERT INFO HERE==
+
+-mMaxLeanAnimAlpha:
+==INSERT INFO HERE==
+

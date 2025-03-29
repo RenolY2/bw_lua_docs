@@ -1,0 +1,38 @@
+>BOTH:
+-texture:
+==INSERT INFO HERE==
+
+-properties:
+==INSERT INFO HERE==
+
+-colour:
+==INSERT INFO HERE==
+
+-tlUV:
+==INSERT INFO HERE==
+
+-brUV:
+==INSERT INFO HERE==
+
+-totalFrames:
+==INSERT INFO HERE==
+
+-frameTime:
+==INSERT INFO HERE==
+
+-numRows:
+==INSERT INFO HERE==
+
+-numColumns:
+==INSERT INFO HERE==
+
+-startLoop:
+==INSERT INFO HERE==
+
+-endLoop:
+==INSERT INFO HERE==
+
+>BW2:
+-scale:
+==INSERT INFO HERE==
+

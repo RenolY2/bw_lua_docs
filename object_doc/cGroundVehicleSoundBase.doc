@@ -1,0 +1,38 @@
+>BOTH:
+-mKilledSoundBase:
+==INSERT INFO HERE==
+
+-mOnFireScreamSoundBase:
+==INSERT INFO HERE==
+
+-mSkidSoundBase:
+==INSERT INFO HERE==
+
+-mBurningLoopSoundBase:
+==INSERT INFO HERE==
+
+-mTurretMovingSoundBase:
+==INSERT INFO HERE==
+
+-mBarrelMovingSoundBase:
+==INSERT INFO HERE==
+
+-mSuspensionSpringSoundBase:
+==INSERT INFO HERE==
+
+-mSuspensionSpringVolumeCurve:
+==INSERT INFO HERE==
+
+-mSkidFrequency:
+==INSERT INFO HERE==
+
+-mGroundVehicleEngineSoundBase:
+==INSERT INFO HERE==
+
+>BW2:
+-mRattleSoundBase:
+==INSERT INFO HERE==
+
+-mRattleVolumeCurve:
+==INSERT INFO HERE==
+

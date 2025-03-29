@@ -1,0 +1,29 @@
+>BOTH:
+-mBase:
+==INSERT INFO HERE==
+
+-mInstanceFlags:
+==INSERT INFO HERE==
+
+-mCamType:
+==INSERT INFO HERE==
+
+-mTarget:
+==INSERT INFO HERE==
+
+-mCurrentWP:
+==INSERT INFO HERE==
+
+-Mat:
+==INSERT INFO HERE==
+
+-SystemFlags:
+==INSERT INFO HERE==
+
+>BW2:
+-mLodBias:
+==INSERT INFO HERE==
+
+-miWorldObjFlags:
+==INSERT INFO HERE==
+

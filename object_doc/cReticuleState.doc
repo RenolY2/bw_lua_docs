@@ -1,0 +1,34 @@
+>BW2:
+-m_primarySprite:
+==INSERT INFO HERE==
+
+-m_secondarySprite:
+==INSERT INFO HERE==
+
+-m_secondaryNonLockSprite:
+==INSERT INFO HERE==
+
+-m_powerbarSprite:
+==INSERT INFO HERE==
+
+-m_powerbarSpriteLeft:
+==INSERT INFO HERE==
+
+-m_powerbarSpriteBg:
+==INSERT INFO HERE==
+
+-m_powerbarStartColour:
+==INSERT INFO HERE==
+
+-m_powerbarNormalEndColour:
+==INSERT INFO HERE==
+
+-m_powerbarAdvancedEndColour:
+==INSERT INFO HERE==
+
+-m_powerbarBgColour:
+==INSERT INFO HERE==
+
+-m_eBlendMode:
+==INSERT INFO HERE==
+

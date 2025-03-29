@@ -1,0 +1,175 @@
+>BW2:
+-mTestWaterPhysAttribute:
+==INSERT INFO HERE==
+
+-mBobRollAmount:
+==INSERT INFO HERE==
+
+-mBobPitchAmount:
+==INSERT INFO HERE==
+
+-mBobVelocityFactor:
+==INSERT INFO HERE==
+
+-mBobSpeed:
+==INSERT INFO HERE==
+
+-mGlobalForceFactor:
+==INSERT INFO HERE==
+
+-mBuoyancyFloatWidth:
+==INSERT INFO HERE==
+
+-mBuoyancyFloatDepth:
+==INSERT INFO HERE==
+
+-mBuoyancyForceDepth:
+==INSERT INFO HERE==
+
+-mBuoyancyForce:
+==INSERT INFO HERE==
+
+-mEnginePower:
+==INSERT INFO HERE==
+
+-mReversingModifier:
+==INSERT INFO HERE==
+
+-mRudderForceVelocity:
+==INSERT INFO HERE==
+
+-mRudderForceAtRest:
+==INSERT INFO HERE==
+
+-mKeelForceAmount:
+==INSERT INFO HERE==
+
+-mAngularResistanceFactor:
+==INSERT INFO HERE==
+
+-mGroundFriction:
+==INSERT INFO HERE==
+
+-mAntiBeachingFactor:
+==INSERT INFO HERE==
+
+-mBeachingSpeed:
+==INSERT INFO HERE==
+
+-mSpeedLift:
+==INSERT INFO HERE==
+
+-mWaterResistanceForce:
+==INSERT INFO HERE==
+
+-mWaterResistanceHeight:
+==INSERT INFO HERE==
+
+-mWaterResistance4PointMix:
+==INSERT INFO HERE==
+
+-mBuoyancyFloatForwardsLength:
+==INSERT INFO HERE==
+
+-mBuoyancyFloatBackwardsLength:
+==INSERT INFO HERE==
+
+-mBuoyancyForcePosHeight:
+==INSERT INFO HERE==
+
+-mRudderPosHeight:
+==INSERT INFO HERE==
+
+-mRudderForcePosHeight:
+==INSERT INFO HERE==
+
+-mKeelForcePosHeight:
+==INSERT INFO HERE==
+
+-mKeelForcePosLength:
+==INSERT INFO HERE==
+
+-mWaterResistanceVerticalMul:
+==INSERT INFO HERE==
+
+-attackSpeed:
+==INSERT INFO HERE==
+
+-reverseSpeed:
+==INSERT INFO HERE==
+
+-swimSpeed:
+==INSERT INFO HERE==
+
+-patrolSpeed:
+==INSERT INFO HERE==
+
+-collisionMass:
+==INSERT INFO HERE==
+
+-driveAccln:
+==INSERT INFO HERE==
+
+-brakingAccln:
+==INSERT INFO HERE==
+
+-buoyancy:
+==INSERT INFO HERE==
+
+-maxSlope:
+==INSERT INFO HERE==
+
+-velDamping:
+==INSERT INFO HERE==
+
+-lateralVelDamping:
+==INSERT INFO HERE==
+
+-speedBleedFactor:
+==INSERT INFO HERE==
+
+-maxTurnRate:
+==INSERT INFO HERE==
+
+-turnAccln:
+==INSERT INFO HERE==
+
+-turnDamping:
+==INSERT INFO HERE==
+
+-minSpeedToTurn:
+==INSERT INFO HERE==
+
+-maxAngleWithGround:
+==INSERT INFO HERE==
+
+-maxRoll:
+==INSERT INFO HERE==
+
+-maxRollRate:
+==INSERT INFO HERE==
+
+-Drag:
+==INSERT INFO HERE==
+
+-AngDrag:
+==INSERT INFO HERE==
+
+-BrakeCoeff:
+==INSERT INFO HERE==
+
+-MomentOfInertia:
+==INSERT INFO HERE==
+
+-controlEngineScale:
+==INSERT INFO HERE==
+
+-controlEngineDamping:
+==INSERT INFO HERE==
+
+-controlEngineError:
+==INSERT INFO HERE==
+
+-mPhysicsParams:
+==INSERT INFO HERE==
+

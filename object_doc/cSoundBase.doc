@@ -1,0 +1,38 @@
+>BOTH:
+-mPriority:
+==INSERT INFO HERE==
+
+-mVolume:
+==INSERT INFO HERE==
+
+-mVolumeVariation:
+==INSERT INFO HERE==
+
+-mPitchMultiplier:
+==INSERT INFO HERE==
+
+-mPitchMultiplierVariation:
+==INSERT INFO HERE==
+
+-mFalloffMin:
+==INSERT INFO HERE==
+
+-mFalloffMax:
+==INSERT INFO HERE==
+
+-mFlags:
+==INSERT INFO HERE==
+
+-mSample:
+==INSERT INFO HERE==
+
+-mLikelyhood:
+==INSERT INFO HERE==
+
+-miCacheSize:
+==INSERT INFO HERE==
+
+>BW2:
+-mRemoteVolumeMultiplier:
+==INSERT INFO HERE==
+

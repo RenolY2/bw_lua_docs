@@ -1,0 +1,73 @@
+>BW2:
+-mSlider:
+==INSERT INFO HERE==
+
+-mDataScript:
+==INSERT INFO HERE==
+
+-mNormalColumns:
+==INSERT INFO HERE==
+
+-mPassiveColumns:
+==INSERT INFO HERE==
+
+-mActiveColumns:
+==INSERT INFO HERE==
+
+-mSelectedColumns:
+==INSERT INFO HERE==
+
+-mNormalMarker:
+==INSERT INFO HERE==
+
+-mPassiveMarker:
+==INSERT INFO HERE==
+
+-mActiveMarker:
+==INSERT INFO HERE==
+
+-mSelectedMarker:
+==INSERT INFO HERE==
+
+-mOffset:
+==INSERT INFO HERE==
+
+-mLineSize:
+==INSERT INFO HERE==
+
+-mLineCount:
+==INSERT INFO HERE==
+
+-mItemCount:
+==INSERT INFO HERE==
+
+-mTopItem:
+==INSERT INFO HERE==
+
+-mActivatedItem:
+==INSERT INFO HERE==
+
+-mSelectedItem:
+==INSERT INFO HERE==
+
+-mpSelectedSound:
+==INSERT INFO HERE==
+
+-mpActivatedSound:
+==INSERT INFO HERE==
+
+-mpPos:
+==INSERT INFO HERE==
+
+-mpColour:
+==INSERT INFO HERE==
+
+-meZDepth:
+==INSERT INFO HERE==
+
+-mpActive:
+==INSERT INFO HERE==
+
+-mpEventHandler:
+==INSERT INFO HERE==
+

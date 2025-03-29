@@ -1,0 +1,309 @@
+>BOTH:
+-fogColor:
+==INSERT INFO HERE==
+
+-skyColor:
+==INSERT INFO HERE==
+
+-meGlobalLightingMode:
+==INSERT INFO HERE==
+
+-mSunAmbientColor:
+==INSERT INFO HERE==
+
+-mSunDirectionalColor:
+==INSERT INFO HERE==
+
+-mAntiSunDirectionalColor:
+==INSERT INFO HERE==
+
+-mSunElevation:
+==INSERT INFO HERE==
+
+-mSunRotation:
+==INSERT INFO HERE==
+
+-mAntiSunElevation:
+==INSERT INFO HERE==
+
+-mAntiSunRotation:
+==INSERT INFO HERE==
+
+-mSunContrast:
+==INSERT INFO HERE==
+
+-mTerrainLightScale:
+==INSERT INFO HERE==
+
+-mShadowElevation:
+==INSERT INFO HERE==
+
+-mShadowRotation:
+==INSERT INFO HERE==
+
+-mShadowFadeValue:
+==INSERT INFO HERE==
+
+-mShadowCutOffDistance:
+==INSERT INFO HERE==
+
+-mShadowColor:
+==INSERT INFO HERE==
+
+-alphaDistance:
+==INSERT INFO HERE==
+
+-fogDistance:
+==INSERT INFO HERE==
+
+-FarClipPlane:
+==INSERT INFO HERE==
+
+-alphaDistanceFX:
+==INSERT INFO HERE==
+
+-FarClipPlaneFX:
+==INSERT INFO HERE==
+
+-mfTroopLowLODDrawDistanceBias:
+==INSERT INFO HERE==
+
+-mReticuleTexturePtr:
+==INSERT INFO HERE==
+
+-mpScorchTexture:
+==INSERT INFO HERE==
+
+-mbTerrainParticlesEnabled:
+==INSERT INFO HERE==
+
+-mfTerrainParticlesViewDistance:
+==INSERT INFO HERE==
+
+-mfTerrainParticlesAlphaDistance:
+==INSERT INFO HERE==
+
+-mbTerrainParticlesLit:
+==INSERT INFO HERE==
+
+-mpTerrainParticleAnimationParams:
+==INSERT INFO HERE==
+
+-mpWorldSkydome:
+==INSERT INFO HERE==
+
+-mfSkydomeSize:
+==INSERT INFO HERE==
+
+-mbSkydomeHeightAdjust:
+==INSERT INFO HERE==
+
+-mfSkydomeHeightHorizonPos:
+==INSERT INFO HERE==
+
+-mfSkydomeHeightFactorUp:
+==INSERT INFO HERE==
+
+-mfSkydomeHeightFactorDown:
+==INSERT INFO HERE==
+
+-mpSphericalSkyMap:
+==INSERT INFO HERE==
+
+-mWaterHeight:
+==INSERT INFO HERE==
+
+-mWaterSwellFrequency:
+==INSERT INFO HERE==
+
+-mWaterSwellAmplitude:
+==INSERT INFO HERE==
+
+-mWaterOpacity:
+==INSERT INFO HERE==
+
+-mWaterBumpHeight:
+==INSERT INFO HERE==
+
+>BW1:
+-mGouraudMapAmbientScaleDark:
+==INSERT INFO HERE==
+
+-mGouraudMapAmbientScaleBright:
+==INSERT INFO HERE==
+
+-mExplosionDirColor:
+==INSERT INFO HERE==
+
+-mExplosionAmbColor:
+==INSERT INFO HERE==
+
+-mDestroyableBurntAmbColor:
+==INSERT INFO HERE==
+
+-mWaterUVScale:
+==INSERT INFO HERE==
+
+>BW2:
+-meScreenFilterMode:
+==INSERT INFO HERE==
+
+-mGouraudMapDiffuseScaleDark:
+==INSERT INFO HERE==
+
+-mGouraudMapDiffuseScaleBright:
+==INSERT INFO HERE==
+
+-mGouraudMapSaturationFactor:
+==INSERT INFO HERE==
+
+-mSunSpecularShininess:
+==INSERT INFO HERE==
+
+-mAntiSunSpecularShininess:
+==INSERT INFO HERE==
+
+-mSunAntiSunSpecularStrength:
+==INSERT INFO HERE==
+
+-mExplosionDiffuseColor:
+==INSERT INFO HERE==
+
+-mDestroyableBurntDiffuseColor:
+==INSERT INFO HERE==
+
+-mShadowStrength:
+==INSERT INFO HERE==
+
+-fogDistanceEnd:
+==INSERT INFO HERE==
+
+-mfBumpSpecularFadeFactor:
+==INSERT INFO HERE==
+
+-mbBumpSpecularFadeEnable:
+==INSERT INFO HERE==
+
+-miBumpGlobalIllumTextureSize:
+==INSERT INFO HERE==
+
+-mfAlphaFadeBiasDestroyables:
+==INSERT INFO HERE==
+
+-mfSceneryClusterShadowDecalViewDistance:
+==INSERT INFO HERE==
+
+-mfSceneryClusterShadowDecalAlphaDistance:
+==INSERT INFO HERE==
+
+-mfVerticalDepthAlphaFogStartFX:
+==INSERT INFO HERE==
+
+-mfVerticalDepthAlphaFogEndFX:
+==INSERT INFO HERE==
+
+-mbWaterEnabled:
+==INSERT INFO HERE==
+
+-mbWaterRefObjectUseSimpleShaders:
+==INSERT INFO HERE==
+
+-mWaterUVScaleV2:
+==INSERT INFO HERE==
+
+-mWaterFresnelBiasV2:
+==INSERT INFO HERE==
+
+-mWaterFresnelScaleV2:
+==INSERT INFO HERE==
+
+-mWaterRefDistortionUVScale:
+==INSERT INFO HERE==
+
+-mWaterRefSubDistortionScale:
+==INSERT INFO HERE==
+
+-mWaterRefLODBias:
+==INSERT INFO HERE==
+
+-mWaterRefTerrainDistanceScaler:
+==INSERT INFO HERE==
+
+-mWaterRefObjectDistanceScaler:
+==INSERT INFO HERE==
+
+-mWaterRefEffectDistanceScaler:
+==INSERT INFO HERE==
+
+-mWaterRefSkyDomeVisible:
+==INSERT INFO HERE==
+
+-mWaterRefTerrainVisible:
+==INSERT INFO HERE==
+
+-mWaterRefOtherObjectVisible:
+==INSERT INFO HERE==
+
+-mWaterRefEffectsVisible:
+==INSERT INFO HERE==
+
+-mShorelineNumPasses:
+==INSERT INFO HERE==
+
+-mShorelineDepthScale:
+==INSERT INFO HERE==
+
+-mShorelineOpacity:
+==INSERT INFO HERE==
+
+-mShorelineOscillationScale:
+==INSERT INFO HERE==
+
+-mShorelineOscillationSpeed:
+==INSERT INFO HERE==
+
+-mShorelineMinOscillationSizeFraction:
+==INSERT INFO HERE==
+
+-mShorelineSlideUpLandAmount:
+==INSERT INFO HERE==
+
+-mpShorelineTexture:
+==INSERT INFO HERE==
+
+-mShorelineUScaler:
+==INSERT INFO HERE==
+
+-mShorelineUScrollSpeed:
+==INSERT INFO HERE==
+
+-mShorelineViewDistanceScaler:
+==INSERT INFO HERE==
+
+-mBloomEnabled:
+==INSERT INFO HERE==
+
+-mBloomBrightnessThreshold:
+==INSERT INFO HERE==
+
+-mBloomBrightnessSmoothness:
+==INSERT INFO HERE==
+
+-mBloomAlpha:
+==INSERT INFO HERE==
+
+-mBloomBlurFilter:
+==INSERT INFO HERE==
+
+-mBloomModulateFactor:
+==INSERT INFO HERE==
+
+-mTintBlendFactor:
+==INSERT INFO HERE==
+
+-mTintOverbrightFactor:
+==INSERT INFO HERE==
+
+-mTintColour:
+==INSERT INFO HERE==
+

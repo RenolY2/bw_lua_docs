@@ -1,0 +1,135 @@
+>BOTH:
+-mUnitCalled:
+==INSERT INFO HERE==
+
+-mUnitSentToAttack:
+==INSERT INFO HERE==
+
+-mUnitTakingFire:
+==INSERT INFO HERE==
+
+-mUnitAttackingNotSent:
+==INSERT INFO HERE==
+
+-mUnitHit:
+==INSERT INFO HERE==
+
+-mEnemyKilled:
+==INSERT INFO HERE==
+
+-mEnemyInfantrySpotted:
+==INSERT INFO HERE==
+
+-mEnemyArmourSpotted:
+==INSERT INFO HERE==
+
+-mEnemyAirUnitsSpotted:
+==INSERT INFO HERE==
+
+-mObjectiveSpotted:
+==INSERT INFO HERE==
+
+-mUnableToReachSendPoint:
+==INSERT INFO HERE==
+
+-mCaptureInProgress:
+==INSERT INFO HERE==
+
+-mFlagCaptured:
+==INSERT INFO HERE==
+
+-mFlagLost:
+==INSERT INFO HERE==
+
+-mMovingToCover:
+==INSERT INFO HERE==
+
+-mControlTransferToSoldier:
+==INSERT INFO HERE==
+
+-mControlTransferToGroundVehicle:
+==INSERT INFO HERE==
+
+-mControlTransferToAirVehicle:
+==INSERT INFO HERE==
+
+-mBanter:
+==INSERT INFO HERE==
+
+-mDrowning:
+==INSERT INFO HERE==
+
+>BW1:
+-mUnitSent:
+==INSERT INFO HERE==
+
+-mUnitHitByFriendly:
+==INSERT INFO HERE==
+
+-mUnitBailingOutOfVehicle:
+==INSERT INFO HERE==
+
+-mUnableToFollow:
+==INSERT INFO HERE==
+
+-mBailingOutOfAirVehicle:
+==INSERT INFO HERE==
+
+-mDissaproval:
+==INSERT INFO HERE==
+
+-mCannotHitTarget:
+==INSERT INFO HERE==
+
+>BW2:
+-mControlTransferToNavalVehicle:
+==INSERT INFO HERE==
+
+-mUnitSentToWait:
+==INSERT INFO HERE==
+
+-mUnitSentToGuard:
+==INSERT INFO HERE==
+
+-mUnitSentToCapture:
+==INSERT INFO HERE==
+
+-mUnitSentToHelipad:
+==INSERT INFO HERE==
+
+-mUnitSentToHardpoint:
+==INSERT INFO HERE==
+
+-mEnemySubSpotted:
+==INSERT INFO HERE==
+
+-mEnemyBoatSpotted:
+==INSERT INFO HERE==
+
+-mEnemyBomberSpotted:
+==INSERT INFO HERE==
+
+-mEnemyGunshipSpotted:
+==INSERT INFO HERE==
+
+-mEnemyBazookaVetSpotted:
+==INSERT INFO HERE==
+
+-mEnemyFlamerVetSpotted:
+==INSERT INFO HERE==
+
+-mUnitDecidesToHide:
+==INSERT INFO HERE==
+
+-mUnitDecidesToFlank:
+==INSERT INFO HERE==
+
+-mUnableToAttack:
+==INSERT INFO HERE==
+
+-mIneffectiveAgainstTarget:
+==INSERT INFO HERE==
+
+-mBanterOnGuard:
+==INSERT INFO HERE==
+

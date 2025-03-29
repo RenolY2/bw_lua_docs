@@ -1,0 +1,119 @@
+>BOTH:
+-mForwardMaxSpeed:
+==INSERT INFO HERE==
+
+-mForwardMinSpeed:
+==INSERT INFO HERE==
+
+-mBackwardMaxSpeed:
+==INSERT INFO HERE==
+
+-mCruiseSpeed:
+==INSERT INFO HERE==
+
+-mStrafeTopSpeed:
+==INSERT INFO HERE==
+
+-mUpTopSpeed:
+==INSERT INFO HERE==
+
+-mDownTopSpeed:
+==INSERT INFO HERE==
+
+-mMaxRotnRate:
+==INSERT INFO HERE==
+
+-mZAccln:
+==INSERT INFO HERE==
+
+-mStrafeAccln:
+==INSERT INFO HERE==
+
+-mYAccln:
+==INSERT INFO HERE==
+
+-mMaxTiltForward:
+==INSERT INFO HERE==
+
+-mCruiseTiltForward:
+==INSERT INFO HERE==
+
+-mMaxTiltBackward:
+==INSERT INFO HERE==
+
+-mCruiseTiltBackward:
+==INSERT INFO HERE==
+
+-maxTiltSideways:
+==INSERT INFO HERE==
+
+-mCruiseTiltSideways:
+==INSERT INFO HERE==
+
+-mTiltSpeedFactor:
+==INSERT INFO HERE==
+
+-mMaxAimingTilt:
+==INSERT INFO HERE==
+
+-mfMaxPlayerAimingTilt:
+==INSERT INFO HERE==
+
+-mBankFactor:
+==INSERT INFO HERE==
+
+-mMinHAG:
+==INSERT INFO HERE==
+
+-mCruiseHAG:
+==INSERT INFO HERE==
+
+-mMaxHAG:
+==INSERT INFO HERE==
+
+-mLandingHAG:
+==INSERT INFO HERE==
+
+-mMinHAT:
+==INSERT INFO HERE==
+
+-mMaxHAT:
+==INSERT INFO HERE==
+
+-mLookAhead:
+==INSERT INFO HERE==
+
+-mLongitudinalAirDrag:
+==INSERT INFO HERE==
+
+-mLateralAirDrag:
+==INSERT INFO HERE==
+
+-mVerticalDrag:
+==INSERT INFO HERE==
+
+-mMinBladeSpeed:
+==INSERT INFO HERE==
+
+-mMaxBladeSpeed:
+==INSERT INFO HERE==
+
+-mWindupAccln:
+==INSERT INFO HERE==
+
+>BW2:
+-mBarrelRollDuration:
+==INSERT INFO HERE==
+
+-mBarrelRollInterval:
+==INSERT INFO HERE==
+
+-mBarrelRollSideSlip:
+==INSERT INFO HERE==
+
+-mBarrelRollRadius:
+==INSERT INFO HERE==
+
+-mBarrelRollInputModifier:
+==INSERT INFO HERE==
+

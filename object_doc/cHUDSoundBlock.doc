@@ -1,0 +1,138 @@
+>BOTH:
+-mCall:
+==INSERT INFO HERE==
+
+-mSend:
+==INSERT INFO HERE==
+
+-mMoveSelection:
+==INSERT INFO HERE==
+
+-mSelectItem:
+==INSERT INFO HERE==
+
+-mEnterLookMode:
+==INSERT INFO HERE==
+
+-mExitLookMode:
+==INSERT INFO HERE==
+
+-mTargetLock:
+==INSERT INFO HERE==
+
+-mControlTransfer:
+==INSERT INFO HERE==
+
+-mIncomingRadioMessage:
+==INSERT INFO HERE==
+
+-mLeavingMissionArea:
+==INSERT INFO HERE==
+
+-mMissileWarning:
+==INSERT INFO HERE==
+
+-mSendToAttack:
+==INSERT INFO HERE==
+
+-mDismiss:
+==INSERT INFO HERE==
+
+-mPrimaryObjectiveComplete:
+==INSERT INFO HERE==
+
+-mSecondaryObjectiveComplete:
+==INSERT INFO HERE==
+
+-mPauseTransition:
+==INSERT INFO HERE==
+
+-mPauseConfirm:
+==INSERT INFO HERE==
+
+-mPauseCancel:
+==INSERT INFO HERE==
+
+-mPauseNavigate:
+==INSERT INFO HERE==
+
+-mPausePopUp:
+==INSERT INFO HERE==
+
+-mStackExpand:
+==INSERT INFO HERE==
+
+-mStackCollapse:
+==INSERT INFO HERE==
+
+-mClearMessageQue:
+==INSERT INFO HERE==
+
+>BW1:
+-mEnterStrafeMode:
+==INSERT INFO HERE==
+
+-mExitStrafeMode:
+==INSERT INFO HERE==
+
+>BW2:
+-mNegativeMoveSelection:
+==INSERT INFO HERE==
+
+-mIneffectiveAttack:
+==INSERT INFO HERE==
+
+-mInstallationCaptureAlarmPlayer:
+==INSERT INFO HERE==
+
+-mInstallationCaptureAlarmEnemy:
+==INSERT INFO HERE==
+
+-mInstallationCapturedByPlayer:
+==INSERT INFO HERE==
+
+-mInstallationCapturedByEnemy:
+==INSERT INFO HERE==
+
+-mSonarPing:
+==INSERT INFO HERE==
+
+-mEnterMeleeCamMode:
+==INSERT INFO HERE==
+
+-mExitMeleeCamMode:
+==INSERT INFO HERE==
+
+-mTransfer:
+==INSERT INFO HERE==
+
+-mLockOn:
+==INSERT INFO HERE==
+
+-mLockOff:
+==INSERT INFO HERE==
+
+-mMissileLockLost:
+==INSERT INFO HERE==
+
+-mFacilitiesUnitRespawn:
+==INSERT INFO HERE==
+
+-mOxygenLow:
+==INSERT INFO HERE==
+
+-mUnitDied:
+==INSERT INFO HERE==
+
+-mLowHealth:
+==INSERT INFO HERE==
+
+-mCoopMarkerPlaced:
+==INSERT INFO HERE==
+
+-mTorpedoWarning:
+==INSERT INFO HERE==
+
+-mTorpedoLockLost:
+==INSERT INFO HERE==
+

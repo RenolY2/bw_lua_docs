@@ -1,0 +1,59 @@
+>BOTH:
+-mLaunchSoundBase:
+==INSERT INFO HERE==
+
+-mEndFireSoundBase:
+==INSERT INFO HERE==
+
+-mReloadSoundBase:
+==INSERT INFO HERE==
+
+-mFireType:
+==INSERT INFO HERE==
+
+-mReloadDelay:
+==INSERT INFO HERE==
+
+-mDistantCheckDelay:
+==INSERT INFO HERE==
+
+-mDistantLaunchDistance:
+==INSERT INFO HERE==
+
+-mDistantLaunchSoundBase:
+==INSERT INFO HERE==
+
+-mChooseRandomLaunchPitchAtStart:
+==INSERT INFO HERE==
+
+-mDelayForLaunchSound:
+==INSERT INFO HERE==
+
+>BW2:
+-mpDrawSound:
+==INSERT INFO HERE==
+
+-mpFirePowerLevelLow:
+==INSERT INFO HERE==
+
+-mpFirePowerLevelMedium:
+==INSERT INFO HERE==
+
+-mpFirePowerLevelHigh:
+==INSERT INFO HERE==
+
+-mpFirePowerLevelLowDistant:
+==INSERT INFO HERE==
+
+-mpFirePowerLevelMediumDistant:
+==INSERT INFO HERE==
+
+-mpFirePowerLevelHighDistant:
+==INSERT INFO HERE==
+
+-mpBarrelRotateSound:
+==INSERT INFO HERE==
+
+-mfBarrelRotateVolumeIncreaseRate:
+==INSERT INFO HERE==
+

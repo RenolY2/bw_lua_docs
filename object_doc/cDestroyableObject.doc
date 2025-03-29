@@ -1,0 +1,29 @@
+>BOTH:
+-mBase:
+==INSERT INFO HERE==
+
+-mStickToFloor:
+==INSERT INFO HERE==
+
+-NextLinkObject:
+==INSERT INFO HERE==
+
+-LinkOffset:
+==INSERT INFO HERE==
+
+-mInstanceFlags:
+==INSERT INFO HERE==
+
+-mpScript:
+==INSERT INFO HERE==
+
+-Mat:
+==INSERT INFO HERE==
+
+-SystemFlags:
+==INSERT INFO HERE==
+
+>BW2:
+-miWorldObjFlags:
+==INSERT INFO HERE==
+

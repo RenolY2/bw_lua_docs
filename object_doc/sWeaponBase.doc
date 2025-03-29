@@ -1,0 +1,204 @@
+>BOTH:
+-BulletType:
+==INSERT INFO HERE==
+
+-Flags:
+==INSERT INFO HERE==
+
+-LaunchVec:
+==INSERT INFO HERE==
+
+-PreferredTargetType:
+==INSERT INFO HERE==
+
+-AgainstStratofortress:
+==INSERT INFO HERE==
+
+-AgainstBomber:
+==INSERT INFO HERE==
+
+-AgainstTransport:
+==INSERT INFO HERE==
+
+-AgainstGunship:
+==INSERT INFO HERE==
+
+-AgainstFighter:
+==INSERT INFO HERE==
+
+-AgainstBattleStation:
+==INSERT INFO HERE==
+
+-AgainstAnitAir:
+==INSERT INFO HERE==
+
+-AgainstArtilliery:
+==INSERT INFO HERE==
+
+-AgainstHeavyTank:
+==INSERT INFO HERE==
+
+-AgainstLightTank:
+==INSERT INFO HERE==
+
+-AgainstHeavyTransport:
+==INSERT INFO HERE==
+
+-AgainstLightTransport:
+==INSERT INFO HERE==
+
+-AgainstRecon:
+==INSERT INFO HERE==
+
+-AgainstVetShotGun:
+==INSERT INFO HERE==
+
+-AgainstVetAntiAir:
+==INSERT INFO HERE==
+
+-AgainstVetGrenade:
+==INSERT INFO HERE==
+
+-AgainstVetFlamer:
+==INSERT INFO HERE==
+
+-AgainstVetAntiArmour:
+==INSERT INFO HERE==
+
+-AgainstVetHMG:
+==INSERT INFO HERE==
+
+-AgainstGrunt:
+==INSERT INFO HERE==
+
+-AgainstBuilding:
+==INSERT INFO HERE==
+
+-TimeBetweenBullets:
+==INSERT INFO HERE==
+
+-MaxAmmoInClip:
+==INSERT INFO HERE==
+
+-ReloadTime:
+==INSERT INFO HERE==
+
+-ScatterAngle:
+==INSERT INFO HERE==
+
+-TimeToMaxScatterAngle:
+==INSERT INFO HERE==
+
+-MinTurretAngle:
+==INSERT INFO HERE==
+
+-MaxTurretAngle:
+==INSERT INFO HERE==
+
+-MinBarrelAngle:
+==INSERT INFO HERE==
+
+-MaxBarrelAngle:
+==INSERT INFO HERE==
+
+-TurretSlewRate:
+==INSERT INFO HERE==
+
+-BarrelSlewRate:
+==INSERT INFO HERE==
+
+-MinFireAngle:
+==INSERT INFO HERE==
+
+-MinRange:
+==INSERT INFO HERE==
+
+-MaxRange:
+==INSERT INFO HERE==
+
+-OptimumRange:
+==INSERT INFO HERE==
+
+-OptimumRangeSpread:
+==INSERT INFO HERE==
+
+-OptimumRangeBonus:
+==INSERT INFO HERE==
+
+-TargettingRangePenalty:
+==INSERT INFO HERE==
+
+-mEffectLightRadius:
+==INSERT INFO HERE==
+
+-mEffectLightColour:
+==INSERT INFO HERE==
+
+-mEffectLightDuration:
+==INSERT INFO HERE==
+
+-mTequilaEffect:
+==INSERT INFO HERE==
+
+-mAttack:
+==INSERT INFO HERE==
+
+-mSustain:
+==INSERT INFO HERE==
+
+-mDecay:
+==INSERT INFO HERE==
+
+-mpSoundBase:
+==INSERT INFO HERE==
+
+>BW1:
+-PersonalSpaceRange:
+==INSERT INFO HERE==
+
+>BW2:
+-mPreferentialBias:
+==INSERT INFO HERE==
+
+-mUsesAlternatePowerBar:
+==INSERT INFO HERE==
+
+-mFreeAttackFlags:
+==INSERT INFO HERE==
+
+-AgainstBattleship:
+==INSERT INFO HERE==
+
+-AgainstFrigate:
+==INSERT INFO HERE==
+
+-AgainstSubmarine:
+==INSERT INFO HERE==
+
+-AgainstGunboat:
+==INSERT INFO HERE==
+
+-AgainstDreadnaught:
+==INSERT INFO HERE==
+
+-AgainstTroopInCover:
+==INSERT INFO HERE==
+
+-AgainstTroopInCapturePoint:
+==INSERT INFO HERE==
+
+-mMinReticuleRangeHint:
+==INSERT INFO HERE==
+
+-mMaxReticuleRangeHint:
+==INSERT INFO HERE==
+
+-mRumbleMin:
+==INSERT INFO HERE==
+
+-mRumbleMax:
+==INSERT INFO HERE==
+
+-mRumbleTime:
+==INSERT INFO HERE==
+

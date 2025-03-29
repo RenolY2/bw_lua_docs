@@ -1,0 +1,28 @@
+>BOTH:
+-mSoundBase:
+==INSERT INFO HERE==
+
+-mPriority:
+==INSERT INFO HERE==
+
+-mFlags:
+==INSERT INFO HERE==
+
+-mInstanceLimit:
+==INSERT INFO HERE==
+
+-mQueueTimeOut:
+==INSERT INFO HERE==
+
+-mRadioTimeOut:
+==INSERT INFO HERE==
+
+-mRepeatDelay:
+==INSERT INFO HERE==
+
+-mPercentageChance:
+==INSERT INFO HERE==
+
+-mDelayBeforePlay:
+==INSERT INFO HERE==
+

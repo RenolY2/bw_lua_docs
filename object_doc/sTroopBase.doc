@@ -1,0 +1,549 @@
+>BOTH:
+-mUnitFlags:
+==INSERT INFO HERE==
+
+-mWpEffectiveRange:
+==INSERT INFO HERE==
+
+-mWeaponLoads:
+==INSERT INFO HERE==
+
+-mPlayerWeaponLoads:
+==INSERT INFO HERE==
+
+-mUnitSprite:
+==INSERT INFO HERE==
+
+-mBAN_Model:
+==INSERT INFO HERE==
+
+-mAnimationSet:
+==INSERT INFO HERE==
+
+-mDistantLowResModel:
+==INSERT INFO HERE==
+
+-mModel:
+==INSERT INFO HERE==
+
+-mWeaponModel:
+==INSERT INFO HERE==
+
+-mHelmetModel:
+==INSERT INFO HERE==
+
+-mBkPackModel:
+==INSERT INFO HERE==
+
+-mfDrawDistLowestLODModel:
+==INSERT INFO HERE==
+
+-mfDrawDistExtraModels:
+==INSERT INFO HERE==
+
+-mfDrawDistPassenger:
+==INSERT INFO HERE==
+
+-mYOffset:
+==INSERT INFO HERE==
+
+-mAnimationTriggeredEffectManager:
+==INSERT INFO HERE==
+
+-ForwardSpeed:
+==INSERT INFO HERE==
+
+-BackwardSpeed:
+==INSERT INFO HERE==
+
+-StrafeSpeed:
+==INSERT INFO HERE==
+
+-RollSpeed:
+==INSERT INFO HERE==
+
+-swimSpeed:
+==INSERT INFO HERE==
+
+-walkAnimSpeed:
+==INSERT INFO HERE==
+
+-runAnimSpeed:
+==INSERT INFO HERE==
+
+-BackwardsAnimSpeed:
+==INSERT INFO HERE==
+
+-walkRunTransitionSpeed:
+==INSERT INFO HERE==
+
+-mass:
+==INSERT INFO HERE==
+
+-buoyancy:
+==INSERT INFO HERE==
+
+-driveAccln:
+==INSERT INFO HERE==
+
+-brakingAccln:
+==INSERT INFO HERE==
+
+-maxSlope:
+==INSERT INFO HERE==
+
+-velDamping:
+==INSERT INFO HERE==
+
+-maxTurnRate:
+==INSERT INFO HERE==
+
+-turnAccln:
+==INSERT INFO HERE==
+
+-turnDamping:
+==INSERT INFO HERE==
+
+-mJumpHeight:
+==INSERT INFO HERE==
+
+-mPlummetTime:
+==INSERT INFO HERE==
+
+-mDelayBetweenCombatMoves:
+==INSERT INFO HERE==
+
+-mStunTime:
+==INSERT INFO HERE==
+
+-mDodgeConfusionTime:
+==INSERT INFO HERE==
+
+-mExplodeType:
+==INSERT INFO HERE==
+
+-mFootPrints:
+==INSERT INFO HERE==
+
+-mJumpPrints:
+==INSERT INFO HERE==
+
+-mfGroundLightFactor:
+==INSERT INFO HERE==
+
+-mCamPos:
+==INSERT INFO HERE==
+
+-mCamPos2:
+==INSERT INFO HERE==
+
+-mCamLookPos:
+==INSERT INFO HERE==
+
+-mCamLookPos2:
+==INSERT INFO HERE==
+
+-mCamCloseUpPos:
+==INSERT INFO HERE==
+
+-mMultiplayerCamPos:
+==INSERT INFO HERE==
+
+-mMultiplayerCamLookPos:
+==INSERT INFO HERE==
+
+-mPivotOffset:
+==INSERT INFO HERE==
+
+-mLagFactor:
+==INSERT INFO HERE==
+
+-mMaximumCameraSpeed:
+==INSERT INFO HERE==
+
+-mJumpSoundBase:
+==INSERT INFO HERE==
+
+-mSlideSoundBase:
+==INSERT INFO HERE==
+
+-mKilledSoundBase:
+==INSERT INFO HERE==
+
+-mTroopVoiceManagerBase:
+==INSERT INFO HERE==
+
+-mMaxTimeInWater:
+==INSERT INFO HERE==
+
+-mMaxDrownTime:
+==INSERT INFO HERE==
+
+-mDisplayNameStringID:
+==INSERT INFO HERE==
+
+-mNoMap:
+==INSERT INFO HERE==
+
+-mNoRadar:
+==INSERT INFO HERE==
+
+-mArmy:
+==INSERT INFO HERE==
+
+-mIdleTurnProbabilityPcent:
+==INSERT INFO HERE==
+
+-mBanterChance:
+==INSERT INFO HERE==
+
+-mBanterFrequency:
+==INSERT INFO HERE==
+
+-mBlurSpeed:
+==INSERT INFO HERE==
+
+-mBlurAmount:
+==INSERT INFO HERE==
+
+-unitIcon:
+==INSERT INFO HERE==
+
+-mDefensiveRadius:
+==INSERT INFO HERE==
+
+-mHearingRange:
+==INSERT INFO HERE==
+
+-mMaxAttackers:
+==INSERT INFO HERE==
+
+-mTargetingDistance:
+==INSERT INFO HERE==
+
+-mRadarRange:
+==INSERT INFO HERE==
+
+-lagFactor:
+==INSERT INFO HERE==
+
+-initialLagFactor:
+==INSERT INFO HERE==
+
+-lagInterpolationTime:
+==INSERT INFO HERE==
+
+-mPickupDropped:
+==INSERT INFO HERE==
+
+-mPickupLaunchVelocity:
+==INSERT INFO HERE==
+
+-mConsiderPickupRange:
+==INSERT INFO HERE==
+
+-mMaxHealth:
+==INSERT INFO HERE==
+
+-mDamageType:
+==INSERT INFO HERE==
+
+-mDamageFactor:
+==INSERT INFO HERE==
+
+-mSmoulderingThreshold:
+==INSERT INFO HERE==
+
+-mBurningThreshold:
+==INSERT INFO HERE==
+
+-mCoolingRate:
+==INSERT INFO HERE==
+
+-mFlameDamageRate:
+==INSERT INFO HERE==
+
+-mFireDamageRate:
+==INSERT INFO HERE==
+
+-mRammingStrength:
+==INSERT INFO HERE==
+
+-mRammingResistance:
+==INSERT INFO HERE==
+
+-mRetargetTime:
+==INSERT INFO HERE==
+
+-mSightRange:
+==INSERT INFO HERE==
+
+-mMovementSightRange:
+==INSERT INFO HERE==
+
+-mSightCone:
+==INSERT INFO HERE==
+
+-mShadowTexture:
+==INSERT INFO HERE==
+
+-mShadowScaleFactor:
+==INSERT INFO HERE==
+
+-mTaggedEffectBase:
+==INSERT INFO HERE==
+
+-mTakingDamageEffect:
+==INSERT INFO HERE==
+
+-mTakingHealingEffect:
+==INSERT INFO HERE==
+
+-mDrowningEffect:
+==INSERT INFO HERE==
+
+-mDeadModelDecayTime:
+==INSERT INFO HERE==
+
+-mSurfaceType:
+==INSERT INFO HERE==
+
+>BW1:
+-mFriendlyUnitResponseRange:
+==INSERT INFO HERE==
+
+>BW2:
+-mfBlockedHorseImpactImpulseScale:
+==INSERT INFO HERE==
+
+-mfCollisionSphereScale:
+==INSERT INFO HERE==
+
+-mfCollisionSphereOffsetY:
+==INSERT INFO HERE==
+
+-mRevConScrollRegion:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionUp:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionDown:
+==INSERT INFO HERE==
+
+-mRevConCameraAngleUp:
+==INSERT INFO HERE==
+
+-mRevConCameraAngleDown:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionAdvanced:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionUpAdvanced:
+==INSERT INFO HERE==
+
+-mRevConScrollRegionDownAdvanced:
+==INSERT INFO HERE==
+
+-mRevConCameraAngleUpAdvanced:
+==INSERT INFO HERE==
+
+-mRevConCameraAngleDownAdvanced:
+==INSERT INFO HERE==
+
+-mCoverDamageType:
+==INSERT INFO HERE==
+
+-mCoverDamageFactor:
+==INSERT INFO HERE==
+
+-mDefaultCoverDamageFactor:
+==INSERT INFO HERE==
+
+-mMeleeWeapon:
+==INSERT INFO HERE==
+
+-mPlayerMeleeWeapon:
+==INSERT INFO HERE==
+
+-mMeleeCombat:
+==INSERT INFO HERE==
+
+-mDisplayFullNameStringID:
+==INSERT INFO HERE==
+
+-mAppearNeutral:
+==INSERT INFO HERE==
+
+-mDontUseNeutralColour:
+==INSERT INFO HERE==
+
+-mNonTargetable:
+==INSERT INFO HERE==
+
+-mGhostArmy:
+==INSERT INFO HERE==
+
+-mUnitSubType:
+==INSERT INFO HERE==
+
+-mKWUnitClass:
+==INSERT INFO HERE==
+
+-mSteeringClampAngle:
+==INSERT INFO HERE==
+
+-mSteeringClampAngleLocked:
+==INSERT INFO HERE==
+
+-meHoldWeaponInLeftHand:
+==INSERT INFO HERE==
+
+-mPathFindingMaxGradient:
+==INSERT INFO HERE==
+
+-mPathFindingMinWaterDepth:
+==INSERT INFO HERE==
+
+-mPathFindingMaxWaterDepth:
+==INSERT INFO HERE==
+
+-mIgnoreNogo:
+==INSERT INFO HERE==
+
+-mpAIHitReactionData:
+==INSERT INFO HERE==
+
+-mpPlayerHitReactionData:
+==INSERT INFO HERE==
+
+-mCollisionUpkickScale:
+==INSERT INFO HERE==
+
+-mEvasiveCircleStrafeSpiralFactor:
+==INSERT INFO HERE==
+
+-meCanDoEvasiveJump:
+==INSERT INFO HERE==
+
+-mMeleeBlockDuskKickup:
+==INSERT INFO HERE==
+
+-mfGroundLightColourSaturation:
+==INSERT INFO HERE==
+
+-mBlockedImpactSurfaceType:
+==INSERT INFO HERE==
+
+-mMeleeBlockEffectRampUpTime:
+==INSERT INFO HERE==
+
+-mMeleeBlockEffectRampDownTime:
+==INSERT INFO HERE==
+
+-mStunnedEffect:
+==INSERT INFO HERE==
+
+-mTakingDamageInCoverEffect:
+==INSERT INFO HERE==
+
+-mNumLeftBehindCollisionNodes:
+==INSERT INFO HERE==
+
+-mMeleeCamPos:
+==INSERT INFO HERE==
+
+-mMeleeCamLookPos:
+==INSERT INFO HERE==
+
+-mMeleeCamCloseUpPos:
+==INSERT INFO HERE==
+
+-mMeleePivotOffset:
+==INSERT INFO HERE==
+
+-mMeleeCameraTimeout:
+==INSERT INFO HERE==
+
+-mMeleeBlockSound:
+==INSERT INFO HERE==
+
+-mfMeleeProjectileBlockMaxAngle:
+==INSERT INFO HERE==
+
+-mPlayerDamageOnly:
+==INSERT INFO HERE==
+
+-mDefaultDamageFactor:
+==INSERT INFO HERE==
+
+-mSpawningSound:
+==INSERT INFO HERE==
+
+-mSpawningEffect:
+==INSERT INFO HERE==
+
+-mReviveTime:
+==INSERT INFO HERE==
+
+-mReviveCost:
+==INSERT INFO HERE==
+
+-mRetargetRange:
+==INSERT INFO HERE==
+
+-mPersonalSpaceRange:
+==INSERT INFO HERE==
+
+-mAllyRegroupRadius:
+==INSERT INFO HERE==
+
+-mAllySupportRadius:
+==INSERT INFO HERE==
+
+-mEnemyNotificationRange:
+==INSERT INFO HERE==
+
+-mIgnoreNotificationRange:
+==INSERT INFO HERE==
+
+-mAlternateTargetRange:
+==INSERT INFO HERE==
+
+-mCanDoPassingAttacks:
+==INSERT INFO HERE==
+
+-mDefaultPickupLaunchVelocity:
+==INSERT INFO HERE==
+
+-mInvisType:
+==INSERT INFO HERE==
+
+-mDetectInvisType:
+==INSERT INFO HERE==
+
+-mInvisDetectedTime:
+==INSERT INFO HERE==
+
+-mAttackInvisDistance:
+==INSERT INFO HERE==
+
+-mScore:
+==INSERT INFO HERE==
+
+-mDeathScoreEffect:
+==INSERT INFO HERE==
+
+-mMaxDamageRumble:
+==INSERT INFO HERE==
+
+-mMaxDamageRumbleTime:
+==INSERT INFO HERE==
+
+-mMinDamageRumble:
+==INSERT INFO HERE==
+
+-mMinDamageRumbleTime:
+==INSERT INFO HERE==
+

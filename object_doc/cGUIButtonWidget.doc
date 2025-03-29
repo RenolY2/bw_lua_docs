@@ -1,0 +1,55 @@
+>BW2:
+-mpSpriteSets:
+==INSERT INFO HERE==
+
+-mpDisabled:
+==INSERT INFO HERE==
+
+-mpNormal:
+==INSERT INFO HERE==
+
+-mpSelected:
+==INSERT INFO HERE==
+
+-mpActivated:
+==INSERT INFO HERE==
+
+-mpLabel:
+==INSERT INFO HERE==
+
+-mpButtonActive:
+==INSERT INFO HERE==
+
+-mpActiveTimeout:
+==INSERT INFO HERE==
+
+-mpSelectionSize:
+==INSERT INFO HERE==
+
+-mpActiveSet:
+==INSERT INFO HERE==
+
+-mpSprite:
+==INSERT INFO HERE==
+
+-mpScale:
+==INSERT INFO HERE==
+
+-mpAngle:
+==INSERT INFO HERE==
+
+-mpPos:
+==INSERT INFO HERE==
+
+-mpColour:
+==INSERT INFO HERE==
+
+-meZDepth:
+==INSERT INFO HERE==
+
+-mpActive:
+==INSERT INFO HERE==
+
+-mpEventHandler:
+==INSERT INFO HERE==
+

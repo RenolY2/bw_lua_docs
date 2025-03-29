@@ -1,0 +1,113 @@
+>BOTH:
+-mMaxBlastRadius:
+==INSERT INFO HERE==
+
+-mMinBlastRadius:
+==INSERT INFO HERE==
+
+-mTroopForceFactor:
+==INSERT INFO HERE==
+
+-mLightColour:
+==INSERT INFO HERE==
+
+-mBoomSoundBase:
+==INSERT INFO HERE==
+
+-mUnderwaterExplosionType:
+==INSERT INFO HERE==
+
+-mDamageType:
+==INSERT INFO HERE==
+
+-mDamageAmount:
+==INSERT INFO HERE==
+
+-mTequilaEffect:
+==INSERT INFO HERE==
+
+-mTaggedEffectBase:
+==INSERT INFO HERE==
+
+-mFlashTime:
+==INSERT INFO HERE==
+
+-mWaveTime:
+==INSERT INFO HERE==
+
+-mNumFragmentTrails:
+==INSERT INFO HERE==
+
+-mFragmentType:
+==INSERT INFO HERE==
+
+-mScorchTexturePtr:
+==INSERT INFO HERE==
+
+-mGroundGlowTexturePtr:
+==INSERT INFO HERE==
+
+-mGlowSize:
+==INSERT INFO HERE==
+
+-mCollideType:
+==INSERT INFO HERE==
+
+-mCollideWith:
+==INSERT INFO HERE==
+
+-mObjFlags:
+==INSERT INFO HERE==
+
+-mFlashTimeIn:
+==INSERT INFO HERE==
+
+-mFlashTimeOut:
+==INSERT INFO HERE==
+
+-mFlashColour:
+==INSERT INFO HERE==
+
+-mEffectLightRadius:
+==INSERT INFO HERE==
+
+-mEffectLightColour:
+==INSERT INFO HERE==
+
+-mEffectLightDuration:
+==INSERT INFO HERE==
+
+-mNumRubbleBits:
+==INSERT INFO HERE==
+
+-mRubbleType:
+==INSERT INFO HERE==
+
+-mNumExtraExplosions:
+==INSERT INFO HERE==
+
+-mExtraExplosionDelay:
+==INSERT INFO HERE==
+
+-mNextExplosionType1:
+==INSERT INFO HERE==
+
+-mNextExplosionType2:
+==INSERT INFO HERE==
+
+-mNextExplosion1Probability:
+==INSERT INFO HERE==
+
+-mNextExplosionDelay:
+==INSERT INFO HERE==
+
+>BW2:
+-mUnderwaterDamageFactor:
+==INSERT INFO HERE==
+
+-mTequilaEffectRadius:
+==INSERT INFO HERE==
+
+-mShakeFactor:
+==INSERT INFO HERE==
+

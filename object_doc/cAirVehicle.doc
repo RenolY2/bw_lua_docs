@@ -1,0 +1,53 @@
+>BOTH:
+-mBase:
+==INSERT INFO HERE==
+
+-mPassenger:
+==INSERT INFO HERE==
+
+-spawnMatrix:
+==INSERT INFO HERE==
+
+-State:
+==INSERT INFO HERE==
+
+-mAttackStyle:
+==INSERT INFO HERE==
+
+-mMoveStyle:
+==INSERT INFO HERE==
+
+-mStartWaypoint:
+==INSERT INFO HERE==
+
+-mPlaceOnPlatform:
+==INSERT INFO HERE==
+
+-mUnitInstanceFlags:
+==INSERT INFO HERE==
+
+-mpScript:
+==INSERT INFO HERE==
+
+-Mat:
+==INSERT INFO HERE==
+
+-SystemFlags:
+==INSERT INFO HERE==
+
+>BW2:
+-mVehicleOccupant:
+==INSERT INFO HERE==
+
+-mRevivable:
+==INSERT INFO HERE==
+
+-mDontRegisterBirth:
+==INSERT INFO HERE==
+
+-mEnemyTargetableOnly:
+==INSERT INFO HERE==
+
+-miWorldObjFlags:
+==INSERT INFO HERE==
+

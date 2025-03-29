@@ -1,0 +1,113 @@
+>BOTH:
+-mIdleLoopSoundBase:
+==INSERT INFO HERE==
+
+-mEngineLoop1SoundBase:
+==INSERT INFO HERE==
+
+-mEngineLoop2SoundBase:
+==INSERT INFO HERE==
+
+-mIdleLoopVolumeCurve:
+==INSERT INFO HERE==
+
+-mIdleLoopPitchCurve:
+==INSERT INFO HERE==
+
+-mEngineLoop1VolumeCurve:
+==INSERT INFO HERE==
+
+-mEngineLoop1PitchCurve:
+==INSERT INFO HERE==
+
+-mEngineLoop2VolumeCurve:
+==INSERT INFO HERE==
+
+-mEngineLoop2PitchCurve:
+==INSERT INFO HERE==
+
+-mIdleLoopVolumeCurveController:
+==INSERT INFO HERE==
+
+-mIdleLoopPitchCurveController:
+==INSERT INFO HERE==
+
+-mEngineLoop1VolumeCurveController:
+==INSERT INFO HERE==
+
+-mEngineLoop1PitchCurveController:
+==INSERT INFO HERE==
+
+-mEngineLoop2VolumeCurveController:
+==INSERT INFO HERE==
+
+-mEngineLoop2PitchCurveController:
+==INSERT INFO HERE==
+
+-mEngineLoop1OffGroundPitchModifier:
+==INSERT INFO HERE==
+
+-mEngineLoop1OffGroundHeight:
+==INSERT INFO HERE==
+
+-mEngineLoop2OffGroundPitchModifier:
+==INSERT INFO HERE==
+
+-mEngineLoop2OffGroundHeight:
+==INSERT INFO HERE==
+
+-mGearChangeController:
+==INSERT INFO HERE==
+
+-mGearChangeSoundBase:
+==INSERT INFO HERE==
+
+-mGearChangeValues:
+==INSERT INFO HERE==
+
+-mMaxPowerIncreasePerSecond:
+==INSERT INFO HERE==
+
+-mMaxPowerDecreasePerSecond:
+==INSERT INFO HERE==
+
+-mReversePowerMultiplier:
+==INSERT INFO HERE==
+
+-mRumbleLoopSoundBase:
+==INSERT INFO HERE==
+
+-mRumbleLoopVolumeCurve:
+==INSERT INFO HERE==
+
+-mRumbleLoopPitchCurve:
+==INSERT INFO HERE==
+
+-mRumbleLoopVolumeCurveController:
+==INSERT INFO HERE==
+
+-mRumbleLoopPitchCurveController:
+==INSERT INFO HERE==
+
+>BW2:
+-mIdleLoopSoundBaseUnderwater:
+==INSERT INFO HERE==
+
+-mEngineLoop1SoundBaseUnderwater:
+==INSERT INFO HERE==
+
+-mEngineLoop2SoundBaseUnderwater:
+==INSERT INFO HERE==
+
+-mWakeLoopSoundBase:
+==INSERT INFO HERE==
+
+-mWakeDelayFactor:
+==INSERT INFO HERE==
+
+-mSpeedForMaxWake:
+==INSERT INFO HERE==
+
+-mUnderwaterFadeTime:
+==INSERT INFO HERE==
+
