@@ -1,0 +1,261 @@
+>BOTH:
+-mNumPlayers:
+==INSERT INFO HERE==
+
+-gameHUDs:
+==INSERT INFO HERE==
+
+-mMipBias:
+==INSERT INFO HERE==
+
+-mLuaScriptMemory:
+==INSERT INFO HERE==
+
+-mpRenderParams:
+==INSERT INFO HERE==
+
+-mpFreelistSettings:
+==INSERT INFO HERE==
+
+-mTopObjective:
+==INSERT INFO HERE==
+
+-mDamageArmourBonus:
+==INSERT INFO HERE==
+
+-mBailOutData:
+==INSERT INFO HERE==
+
+-mpMapSpriteTL:
+==INSERT INFO HERE==
+
+-mpMapSpriteTR:
+==INSERT INFO HERE==
+
+-mpMapSpriteBL:
+==INSERT INFO HERE==
+
+-mpMapSpriteBR:
+==INSERT INFO HERE==
+
+-mMapScreenLimits:
+==INSERT INFO HERE==
+
+-mMapScreenMainMapZoom:
+==INSERT INFO HERE==
+
+-mTequilaMemoryHeap:
+==INSERT INFO HERE==
+
+-mCloudStartHeight:
+==INSERT INFO HERE==
+
+-mCloudFullHeight:
+==INSERT INFO HERE==
+
+-mAllowBreathingAttachment:
+==INSERT INFO HERE==
+
+-mCloudLayer1RotateSpeed:
+==INSERT INFO HERE==
+
+-mCloudLayer2RotateSpeed:
+==INSERT INFO HERE==
+
+-mCloudLayer3RotateSpeed:
+==INSERT INFO HERE==
+
+-mCloudLayer4RotateSpeed:
+==INSERT INFO HERE==
+
+-mCloudLayer5RotateSpeed:
+==INSERT INFO HERE==
+
+-mCloudLayer6RotateSpeed:
+==INSERT INFO HERE==
+
+-mCloudLayer7RotateSpeed:
+==INSERT INFO HERE==
+
+-mCloudLayer8RotateSpeed:
+==INSERT INFO HERE==
+
+-mLevelAmbiencePath:
+==INSERT INFO HERE==
+
+-mLevelAmbienceFile:
+==INSERT INFO HERE==
+
+-mLevelAmbienceVolume:
+==INSERT INFO HERE==
+
+-mLevelIntroPath:
+==INSERT INFO HERE==
+
+-mLevelIntroFile:
+==INSERT INFO HERE==
+
+-mLevelMusicPath:
+==INSERT INFO HERE==
+
+-mLevelMusicFile:
+==INSERT INFO HERE==
+
+-mLevelOutroPath:
+==INSERT INFO HERE==
+
+-mLevelOutroFile:
+==INSERT INFO HERE==
+
+-mLevelMusicVolume:
+==INSERT INFO HERE==
+
+-mWesternFrontierAllegiance:
+==INSERT INFO HERE==
+
+-mXylvanianAllegiance:
+==INSERT INFO HERE==
+
+-mTundranTerritoriesAllegiance:
+==INSERT INFO HERE==
+
+-mSolarEmpireAllegiance:
+==INSERT INFO HERE==
+
+-mUnderWorldAllegiance:
+==INSERT INFO HERE==
+
+>BW1:
+-mAllArmySprite:
+==INSERT INFO HERE==
+
+-mShadowsEnabled:
+==INSERT INFO HERE==
+
+-mWaterBobFrequency:
+==INSERT INFO HERE==
+
+-mWaterBobHeight:
+==INSERT INFO HERE==
+
+>BW2:
+-mLevelType:
+==INSERT INFO HERE==
+
+-mRenderToTextureMemory:
+==INSERT INFO HERE==
+
+-mbRenderToTextureUseMem1:
+==INSERT INFO HERE==
+
+-miMaxTerrainMemorySize:
+==INSERT INFO HERE==
+
+-miPhysicsMemorySize:
+==INSERT INFO HERE==
+
+-miActionHeapMemorySize:
+==INSERT INFO HERE==
+
+-mpSkuSpecificData:
+==INSERT INFO HERE==
+
+-mfQuadtreeRadiusSmallSize:
+==INSERT INFO HERE==
+
+-mfQuadtreeRadiusMediumSize:
+==INSERT INFO HERE==
+
+-mAlliedFireDamage:
+==INSERT INFO HERE==
+
+-mDayLight:
+==INSERT INFO HERE==
+
+-mpActionParameters:
+==INSERT INFO HERE==
+
+-mHomeButtonSoundBlock:
+==INSERT INFO HERE==
+
+-mTransferInvulnerableTime:
+==INSERT INFO HERE==
+
+-mPlayerArmy1:
+==INSERT INFO HERE==
+
+-mPlayerArmy2:
+==INSERT INFO HERE==
+
+-mPlayerArmy3:
+==INSERT INFO HERE==
+
+-mPlayerArmy4:
+==INSERT INFO HERE==
+
+-mLoadAllArmyDependentHudGraphics:
+==INSERT INFO HERE==
+
+-mAngloIslesAllegiance:
+==INSERT INFO HERE==
+
+-mWesternFrontierAI:
+==INSERT INFO HERE==
+
+-mXylvanianAI:
+==INSERT INFO HERE==
+
+-mTundranTerritoriesAI:
+==INSERT INFO HERE==
+
+-mSolarEmpireAI:
+==INSERT INFO HERE==
+
+-mUnderWorldAI:
+==INSERT INFO HERE==
+
+-mAngloIslesAI:
+==INSERT INFO HERE==
+
+-mDesigner:
+==INSERT INFO HERE==
+
+-mArtist:
+==INSERT INFO HERE==
+
+-mPathfinding_GradientGentle:
+==INSERT INFO HERE==
+
+-mPathfinding_GradientMedium:
+==INSERT INFO HERE==
+
+-mPathfinding_GradientSteep:
+==INSERT INFO HERE==
+
+-mCOHeadOneArmy:
+==INSERT INFO HERE==
+
+-mCOHeadOneHappy:
+==INSERT INFO HERE==
+
+-mCOHeadOneSad:
+==INSERT INFO HERE==
+
+-mCOHeadTwoArmy:
+==INSERT INFO HERE==
+
+-mCOHeadTwoHappy:
+==INSERT INFO HERE==
+
+-mCOHeadTwoSad:
+==INSERT INFO HERE==
+
+-mPlayerKillBonus:
+==INSERT INFO HERE==
+
+-mFirstKillBonus:
+==INSERT INFO HERE==
+
+-mCaptureBonus:
+==INSERT INFO HERE==
+

@@ -1,0 +1,55 @@
+>BOTH:
+-mPlayerArmy_Air_BailOutHealth:
+==INSERT INFO HERE==
+
+-mPlayerArmy_Air_BurnChance:
+==INSERT INFO HERE==
+
+-mPlayerArmy_Air_SmoulderChance:
+==INSERT INFO HERE==
+
+-mPlayerArmy_Ground_BailOutHealth:
+==INSERT INFO HERE==
+
+-mPlayerArmy_Ground_BurnChance:
+==INSERT INFO HERE==
+
+-mPlayerArmy_Ground_SmoulderChance:
+==INSERT INFO HERE==
+
+-mAlliedArmy_Air_BailOutHealth:
+==INSERT INFO HERE==
+
+-mAlliedArmy_Air_BurnChance:
+==INSERT INFO HERE==
+
+-mAlliedArmy_Air_SmoulderChance:
+==INSERT INFO HERE==
+
+-mAlliedArmy_Ground_BailOutHealth:
+==INSERT INFO HERE==
+
+-mAlliedArmy_Ground_BurnChance:
+==INSERT INFO HERE==
+
+-mAlliedArmy_Ground_SmoulderChance:
+==INSERT INFO HERE==
+
+-mEnemyArmy_Air_BailOutHealth:
+==INSERT INFO HERE==
+
+-mEnemyArmy_Air_BurnChance:
+==INSERT INFO HERE==
+
+-mEnemyArmy_Air_SmoulderChance:
+==INSERT INFO HERE==
+
+-mEnemyArmy_Ground_BurnChance:
+==INSERT INFO HERE==
+
+-mEnemyArmy_Ground_BailOutHealth:
+==INSERT INFO HERE==
+
+-mEnemyArmy_Ground_SmoulderChance:
+==INSERT INFO HERE==
+

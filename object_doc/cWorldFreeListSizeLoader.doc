@@ -1,0 +1,40 @@
+>BOTH:
+-numQuadtreeNodes:
+==INSERT INFO HERE==
+
+-numQuadtreeObjLists:
+==INSERT INFO HERE==
+
+-numNodeHierarchies:
+==INSERT INFO HERE==
+
+-numShadowVolumes:
+==INSERT INFO HERE==
+
+-numPolynodes:
+==INSERT INFO HERE==
+
+-numObjInstances:
+==INSERT INFO HERE==
+
+-numObjAnimInstances:
+==INSERT INFO HERE==
+
+-numJoints:
+==INSERT INFO HERE==
+
+-numJointAnims:
+==INSERT INFO HERE==
+
+-numBanJoints:
+==INSERT INFO HERE==
+
+-numAnimationBlends:
+==INSERT INFO HERE==
+
+-numMaxTerrainMaterials:
+==INSERT INFO HERE==
+
+-numMaxTroopVoiceMessageQueueItems:
+==INSERT INFO HERE==
+
